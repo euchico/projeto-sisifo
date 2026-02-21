@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Projeto Sísifo</title>
+
+  <style>
+    body {
+      margin: 40px;
+      font-family: Arial, sans-serif;
+      color: #333;
+      background: #f5f7fa;
+    }
+
+    .wrapper {
+      max-width: 1100px;   /* controla largura máxima */
+      margin: 0 auto;      /* centraliza */
+      padding: 40px 20px;  /* respiro lateral */
+    }
+
+    h1 {
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    h2 {
+      margin-top: 40px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    h3 {
+      margin-top: 20px;
+      margin-bottom: 5px;
+    }
+
+    a {
+      text-decoration: none;
+      color: #2c3e50;      /* cor neutra elegante */
+      font-weight: 500;
+      transition: 0.2s ease;
+    }
+
+    .subtitle {
+      text-align: center;
+      color: #666;
+    }
+
+    .desc {
+      font-style: italic;
+      font-size: 14px;
+      color: #666;
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+
+    .section-card {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+
+    .positive { border-left: 4px solid #28a745; }
+    .negative { border-left: 4px solid #dc3545; }
+
+    ul {
+      padding-left: 20px;
+      margin-top: 5px;
+    }
+
+    .sub-list {
+      padding-left: 20px;
+      list-style-type: circle;
+    }
+
+    .controls {
+      margin-top: 40px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    input, button {
+      padding: 8px;
+      margin: 5px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      cursor: pointer;
+      background: #e0e6ed;
+    }
+
+    .container {
+      display: grid;
+      gap: 15px;
+    }
+
+    .card {
+      background: white;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .card-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .badge {
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 12px;
+      display: inline-block;
+      margin-top: 5px;
+    }
+
+    .em_uso { background: #d4edda; color: #155724; }
+    .andamento { background: #fff3cd; color: #856404; }
+    .analise { background: #e2e3e5; color: #383d41; }
+
+    @media(max-width:600px){
+      body { margin: 20px; }
+      .card { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+
+  <h1>Projeto Sísifo</h1>
+  <p class="subtitle">Projeto pessoal de curadoria e classificação de sites com vagas de emprego, freelance e renda extra para programadores.</p>
+  <p class="subtitle obs"><i>(!) Conteúdo direcionado para oportunidades no Rio de Janeiro.</i></p>
+
+  <!-- ===================== -->
+  <!-- 1. SITES SELECIONADOS -->
+  <!-- ===================== -->
+
+  <section>
+  <h2>1. Sites Selecionados</h2>
+
+  <div class="section-card">
+    <h3>Notícias (Divulgação)</h3>
+    <p class="desc">Sites voltados para divulgação de oportunidades e informações.</p>
+    <ol>
+      <li><a href="https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila" target="_blank">Blog do Edimilson Ávila</a></li>
+    </ol>
+
+    <h3>Social (Divulgação)</h3>
+    <p class="desc">Grupos para networking e divulgação.</p>
+      
+      <a href="https://facebook.com/groups" target="_blank"><b>Facebook</b></a>
+      <ul class="sub-list">
+        <li><a href="https://www.facebook.com/groups/vagastecinf/" target="_blank">Grupo "Vagas TI"</a></li>
+        <li><a href="https://www.facebook.com/groups/vagasdev/" target="_blank">Grupo "Vagas Programadores/Desenvolvedores"</a></li>
+        <li><a href="https://www.facebook.com/groups/vagasdesenvolvimento/" target="_blank">Grupo "Vagas para Desenvolvedores, Programadores, Web Design, TI"</a></li>
+      </ul>
+      
+      <a href="web.telegram.org" target="_blank"><b>Telegram</b></a>
+      <ul class="sub-list">
+      <li><a href="https://t.me/vagasprajr" target="_blank">Grupo "vagasprajr"</a></li>
+        <li><a href="https://t.me/CafeinaVagas" target="_blank">Grupo "Cafeína Vagas"</a></li>
+        <li><a href="https://t.me/vagastibr" target="_blank">Grupo "Vagas de TI Para Todos"</a></li>
+      </ul>
+
+      <a href="https://www.linkedin.com/jobs/" target="_blank"><b>LinkedIn Jobs</b></a>
+      <ul class="sub-list"></ul>
+
+      <a href="https://www.glassdoor.com.br/Job/" target="_blank"><b>Glassdoor Job</b></a>
+      <ul class="sub-list"></ul>
+    </ul>
+
+    <h3>Trabalho (Candidatura)</h3>
+    <p class="desc">Plataformas para envio direto de candidatura.</p>
+    <ul>
+      <li>Gupy</li>
+      <li>Remotar</li>
+    </ul>
+  </div>
+  </section>
+
+  <!-- ===================== -->
+  <!-- 2. CLASSIFICAÇÃO -->
+  <!-- ===================== -->
+
+  <section>
+  <h2>2. Classificação Geral</h2>
+
+  <div class="section-card positive">
+    <h3>Positivo</h3>
+
+    <h4>Social</h4>
+    <p class="desc">Boa geração de networking e oportunidades indiretas.</p>
+    <ul>
+      <li>Facebook Dev Brasil</li>
+    </ul>
+
+    <h4>Freelance</h4>
+    <p class="desc">Sites que permitem envio direto de proposta.</p>
+    <ul>
+      <li>Workana</li>
+      <li>99Freelas</li>
+    </ul>
+
+    <h4>Trabalho</h4>
+    <p class="desc">Boa taxa de retorno.</p>
+    <ul>
+      <li>LinkedIn</li>
+    </ul>
+  </div>
+
+  <div class="section-card negative">
+    <h3>Negativo</h3>
+
+    <h4>Necessário Gastar Dinheiro</h4>
+    <p class="desc">Exigem assinatura ou créditos.</p>
+    <ul>
+      <li>Algumas plataformas internacionais</li>
+    </ul>
+
+    <h4>Falta de Requisitos</h4>
+    <p class="desc">Exigem experiência superior ao meu nível atual.</p>
+    <ul>
+      <li>Grandes consultorias</li>
+    </ul>
+
+    <h4>Outros</h4>
+    <p class="desc">Baixa taxa de resposta.</p>
+    <ul>
+      <li>Sites genéricos</li>
+    </ul>
+  </div>
+  </section>
+
+  <!-- ===================== -->
+  <!-- 3. LISTA PRINCIPAL -->
+  <!-- ===================== -->
+
+  <section>
+  <h2>3. Lista Completa</h2>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Buscar site...">
+    <button onclick="filterStatus('all')">Todos</button>
+    <button onclick="filterStatus('em_uso')">Em Uso</button>
+    <button onclick="filterStatus('analise')">Para Análise</button>
+  </div>
+
+  <div class="container" id="siteList"></div>
+  </section>
+
+  <script>
+    const sites = [
+      { nome:"Blog do Edimilson Ávila", url:"https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila", status:"em_uso" },
+      { nome:"Facebook", url:"https://facebook.com/groups", status:"em_uso" },
+
+      { nome:"Workana", url:"https://www.workana.com", status:"em_uso" },
+      { nome:"99Freelas", url:"https://www.99freelas.com.br", status:"em_uso" },
+      { nome:"LinkedIn", url:"https://www.linkedin.com", status:"em_uso" },
+      { nome:"Upwork", url:"https://www.upwork.com", status:"analise" },
+      { nome:"Remotar", url:"https://www.remotar.com.br", status:"analise" }
+    ];
+
+    let currentFilter = "all";
+
+    function renderSites() {
+      const list = document.getElementById("siteList");
+      list.innerHTML = "";
+
+      const searchValue = document.getElementById("search").value.toLowerCase();
+
+      sites
+        .filter(site => 
+          (currentFilter === "all" || site.status === currentFilter) &&
+          site.nome.toLowerCase().includes(searchValue)
+        )
+        .forEach(site => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          card.innerHTML = `
+            <div class="card-info">
+              <strong><a href="${site.url}" target="_blank">${site.nome}</a></strong>
+              <span class="badge ${site.status}">
+                ${site.status === "em_uso" ? "Em Uso" : "Para Análise"}
+              </span>
+            </div>
+          `;
+
+          list.appendChild(card);
+        });
+    }
+
+    function filterStatus(status) {
+      currentFilter = status;
+      renderSites();
+    }
+
+    document.getElementById("search").addEventListener("input", renderSites);
+
+    renderSites();
+  </script>
+</body>
+</html>
