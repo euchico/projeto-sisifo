@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Projeto Sísifo</title>
+  <meta name="description" content="Ferramenta pessoal para organizar fontes de oportunidades em programação.">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+  <div class="page-shell">
+    <header class="topbar" aria-label="Navegação Principal">
+      <p class="topbar__brand">Projeto Sísifo</p>
+      <nav class="topbar__nav">
+        <a href="#sites-selecionados">Selecionados</a>
+        <a href="#classificacao-geral">Classificação</a>
+        <a href="#lista-completa">Listagem</a>
+      </nav>
+    </header>
+
+    <main class="content">
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">Curadoria manual de fontes para busca ativa</p>
+        <h1 id="page-title">Projeto Sísifo</h1>
+        <p class="hero__summary">
+          Um painel pessoal, direto e editavel para acompanhar sites, redes e
+          plataformas usados na rotina de vagas e freelance.
+        </p>
+      </section>
+
+      <section id="sites-selecionados" class="section-block" aria-labelledby="selected-title">
+        <div class="section-heading">
+          <p class="section-number">1.</p>
+          <div>
+            <h2 id="selected-title">Selecionados</h2>
+          </div>
+        </div>
+        <div id="selected-groups" class="stacked-groups" aria-live="polite"></div>
+      </section>
+
+      <section id="classificacao-geral" class="section-block" aria-labelledby="ratings-title">
+        <div class="section-heading">
+          <p class="section-number">2.</p>
+          <div>
+            <h2 id="ratings-title">Classificação</h2>
+          </div>
+        </div>
+        <div id="ratings-grid" class="ratings-grid" aria-live="polite"></div>
+      </section>
+
+      <section id="lista-completa" class="section-block" aria-labelledby="sources-title" >
+        <div class="section-heading">
+          <p class="section-number">3.</p>
+          <div>
+            <h2 id="sources-title">Lista completa</h2>
+          </div>
+        </div>
+
+        <div class="toolbar" aria-label="Filtros da lista completa">
+          <label class="search-field" for="search-input">
+            <span class="search-field__icon" aria-hidden="true">⌕</span>
+            <input id="search-input" type="search" name="search" placeholder="Filtrar por nome ou categoria" autocomplete="off" >
+          </label>
+          
+          <div class="filter-pills" role="tablist" aria-label="Filtrar por status">
+            <button type="button" class="filter-pill is-active" data-filter="todos">Todos</button>
+            <button type="button" class="filter-pill" data-filter="em-uso">Em uso</button>
+            <button type="button" class="filter-pill" data-filter="aguardando">Andamento</button>
+            <button type="button" class="filter-pill" data-filter="em-analise">Para analise</button>
+          </div>
+        </div>
+
+        <div class="table-card">
+          <table class="data-table" aria-describedby="sources-title">
+            <thead>
+              <tr>
+                <th scope="col">Site</th>
+                <th scope="col">Categoria</th>
+                <th scope="col">Observacao</th>
+                <th scope="col">Classificacao</th>
+                <th scope="col">Status</th>
+                <th scope="col">Link</th>
+              </tr>
+            </thead>
+            <tbody id="sources-table-body"></tbody>
+          </table>
+        </div>
+
+        <p id="sources-empty" class="empty-state" hidden>
+          Nenhum item encontrado para os filtros atuais.
+        </p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Mantenha a ordem. Aceite o absurdo.</p>
+      <p>Documento interno • Base estatica</p>
+    </footer>
+  </div>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

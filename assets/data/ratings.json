@@ -1,0 +1,51 @@
+[
+  {
+    "name": "LinkedIn Jobs",
+    "category": "Trabalho",
+    "reason": "Maior concentracao de vagas, recrutadores e sinais de atividade do mercado.",
+    "score": "Alta confianca",
+    "sentiment": "positivo"
+  },
+  {
+    "name": "Remote OK",
+    "category": "Trabalho",
+    "reason": "Entrega volume util para busca remota com navegacao relativamente direta.",
+    "score": "Boa recorrencia",
+    "sentiment": "positivo"
+  },
+  {
+    "name": "TabNews",
+    "category": "Noticias",
+    "reason": "Ajuda a manter repertorio de discussao sem parecer feed corporativo.",
+    "score": "Bom contexto",
+    "sentiment": "positivo"
+  },
+  {
+    "name": "Glassdoor",
+    "category": "Pesquisa",
+    "reason": "Muito util para validar salario e reputacao antes de investir energia em processos.",
+    "score": "Apoio estrategico",
+    "sentiment": "positivo"
+  },
+  {
+    "name": "99Freelas",
+    "category": "Freelance",
+    "reason": "Competicao por preco reduz valor do tempo investido e tende a gerar negocicao ruim.",
+    "score": "Baixo retorno",
+    "sentiment": "negativo"
+  },
+  {
+    "name": "Reddit r/forhire",
+    "category": "Freelance",
+    "reason": "Pode render contatos, mas a triagem manual e a incerteza ainda sao altas.",
+    "score": "Irregular",
+    "sentiment": "negativo"
+  },
+  {
+    "name": "Hacker News",
+    "category": "Noticias",
+    "reason": "Excelente para contexto, mas nem sempre converte em oportunidades acionaveis.",
+    "score": "Uso situacional",
+    "sentiment": "negativo"
+  }
+]

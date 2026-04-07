@@ -1,0 +1,102 @@
+[
+  {
+    "id": "linkedin-jobs",
+    "name": "LinkedIn Jobs",
+    "category": "Trabalho / Plataforma",
+    "type": "Plataforma",
+    "description": "Rede principal para vagas tech, networking e contato com recrutadores.",
+    "status": "em-uso",
+    "url": "https://www.linkedin.com/jobs/",
+    "classification": "Alta prioridade"
+  },
+  {
+    "id": "github-jobs-curation",
+    "name": "GitHub Explore",
+    "category": "Social / Dev",
+    "type": "Comunidade",
+    "description": "Boa vitrine para acompanhar empresas, projetos e equipes que estao contratando.",
+    "status": "em-uso",
+    "url": "https://github.com/explore",
+    "classification": "Boa recorrencia"
+  },
+  {
+    "id": "tabnews",
+    "name": "TabNews",
+    "category": "Noticias / Dev",
+    "type": "Comunidade",
+    "description": "Leitura util para contexto do mercado e discussoes sobre carreira em tecnologia.",
+    "status": "em-uso",
+    "url": "https://www.tabnews.com.br/",
+    "classification": "Apoio"
+  },
+  {
+    "id": "hacker-news",
+    "name": "Hacker News",
+    "category": "Noticias / Tech",
+    "type": "Agregador",
+    "description": "Ajuda a acompanhar movimentos de empresas, produtos e debates do ecossistema.",
+    "status": "aguardando",
+    "url": "https://news.ycombinator.com/",
+    "classification": "Consulta eventual"
+  },
+  {
+    "id": "wellfound",
+    "name": "Wellfound",
+    "category": "Trabalho / Startup",
+    "type": "Plataforma",
+    "description": "Boa opcao para startups remotas, com filtros simples e foco em vagas internacionais.",
+    "status": "em-analise",
+    "url": "https://wellfound.com/jobs",
+    "classification": "Potencial alto"
+  },
+  {
+    "id": "remoteok",
+    "name": "Remote OK",
+    "category": "Trabalho / Remoto",
+    "type": "Agregador",
+    "description": "Lista vagas remotas com agilidade, mas exige triagem manual para separar ruido.",
+    "status": "em-uso",
+    "url": "https://remoteok.com/",
+    "classification": "Boa para exploracao"
+  },
+  {
+    "id": "glassdoor",
+    "name": "Glassdoor",
+    "category": "Trabalho / Review",
+    "type": "Consulta",
+    "description": "Apoia validacao de salario, cultura e reputacao antes de perder tempo com processos.",
+    "status": "aguardando",
+    "url": "https://www.glassdoor.com/",
+    "classification": "Consulta de apoio"
+  },
+  {
+    "id": "reddit-forhire",
+    "name": "Reddit r/forhire",
+    "category": "Freelance / Comunidade",
+    "type": "Comunidade",
+    "description": "Pode render leads rapidos de freelance, mas exige leitura critica e filtro manual.",
+    "status": "em-analise",
+    "url": "https://www.reddit.com/r/forhire/",
+    "classification": "Oportunidade ocasional"
+  },
+  {
+    "id": "99freelas",
+    "name": "99Freelas",
+    "category": "Freelance / Plataforma",
+    "type": "Marketplace",
+    "description": "Volume razoavel, embora o ambiente costume pressionar preco e prazo.",
+    "status": "descartado",
+    "url": "https://www.99freelas.com.br/",
+    "classification": "Baixa prioridade"
+  },
+  {
+    "id": "behance",
+    "name": "Behance",
+    "category": "Portfolio / Design",
+    "type": "Vitrine",
+    "description": "Serve como referencia visual e monitoramento de equipes com vaga em produto ou design.",
+    "status": "em-uso",
+    "url": "https://www.behance.net/",
+    "classification": "Complementar"
+  }
+]

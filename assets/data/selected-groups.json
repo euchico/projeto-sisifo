@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Noticias",
+    "description": "Fontes para contexto de mercado, leitura de tendencias e observacao do discurso tecnico.",
+    "categoryKey": "noticias",
+    "items": [
+      {
+        "sourceId": "tabnews",
+        "note": "Comunidade brasileira com discussao util sobre carreira, tecnologia e rotina de estudo.",
+        "subtext": "Leitura recorrente"
+      },
+      {
+        "sourceId": "hacker-news",
+        "note": "Boa fonte para detectar movimentos do mercado e repercussao de produtos.",
+        "subtext": "Consulta eventual"
+      }
+    ]
+  },
+  {
+    "title": "Social",
+    "description": "Espacos de presenca, networking e descoberta indireta de oportunidades.",
+    "categoryKey": "social",
+    "items": [
+      {
+        "sourceId": "github-jobs-curation",
+        "note": "Acompanhamento de empresas, maintainers e projetos que podem sinalizar contratacao.",
+        "subtext": "Rede tecnica"
+      },
+      {
+        "sourceId": "behance",
+        "note": "Observacao de estudios e equipes com abertura para produto, design ou interface.",
+        "subtext": "Vitrine visual"
+      }
+    ]
+  },
+  {
+    "title": "Trabalho",
+    "description": "Fontes diretas para candidatura e triagem de vagas com maior chance de retorno.",
+    "categoryKey": "trabalho",
+    "items": [
+      {
+        "sourceId": "linkedin-jobs",
+        "note": "Canal principal para aplicar e manter visibilidade com recrutadores.",
+        "subtext": "Base principal"
+      },
+      {
+        "sourceId": "remoteok",
+        "note": "Usado para ampliar o radar de vagas remotas sem complicar o fluxo.",
+        "subtext": "Exploracao complementar"
+      },
+      {
+        "sourceId": "wellfound",
+        "note": "Ainda em observacao para entender melhor a qualidade das vagas e do retorno.",
+        "subtext": "Em validacao"
+      }
+    ]
+  }
+]
