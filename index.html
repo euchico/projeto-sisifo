@@ -1,36 +1,44 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+  <!-- Configurações básicas do documento -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
+  <!-- Título exibido na aba do navegador -->
   <title>Projeto Sísifo</title>
-  <meta name="description" content="Ferramenta pessoal para organizar fontes de oportunidades em programação.">
-  <link rel="stylesheet" href="assets/css/styles.css">
+
+  <!-- Normalize e CSS principal do projeto -->
+  <link rel="stylesheet" href="assets/styles/normalize.css">
+  <link rel="stylesheet" href="assets/styles/style.css">
 </head>
 
 <body>
+  <!-- Wrapper geral da página -->
   <div class="page-shell">
-    <header class="topbar" aria-label="Navegação Principal">
+    <!-- Navegacao superior -->
+    <header class="topbar" aria-label="Navegacao Principal">
       <p class="topbar__brand">Projeto Sísifo</p>
       <nav class="topbar__nav">
-        <a href="#sites-selecionados">Selecionados</a>
-        <a href="#classificacao-geral">Classificação</a>
-        <a href="#lista-completa">Listagem</a>
+        <a href="#selecionados">Selecionados</a>
+        <a href="#classificacao">Classificação</a>
+        <a href="#completo">Listagem</a>
       </nav>
     </header>
 
+    <!-- Conteúdo principal da página -->
     <main class="content">
+      <!-- Hero: bloco de apresentação principal -->
       <section class="hero" aria-labelledby="page-title">
-        <p class="eyebrow">Curadoria manual de fontes para busca ativa</p>
+        <p class="eyebrow">Curadoria de fontes de vagas de trabalho</p>
         <h1 id="page-title">Projeto Sísifo</h1>
         <p class="hero__summary">
-          Um painel pessoal, direto e editavel para acompanhar sites, redes e
-          plataformas usados na rotina de vagas e freelance.
+          Um painel pessoal para registrar sites, plataformas e redes utilizados na rotina de busca por oportunidades profissionais.
         </p>
       </section>
 
-      <section id="sites-selecionados" class="section-block" aria-labelledby="selected-title">
+      <!-- 1) Sites selecionados -->
+      <section id="selecionados" class="section-block" aria-labelledby="selected-title">
         <div class="section-heading">
           <p class="section-number">1.</p>
           <div>
@@ -40,17 +48,19 @@
         <div id="selected-groups" class="stacked-groups" aria-live="polite"></div>
       </section>
 
-      <section id="classificacao-geral" class="section-block" aria-labelledby="ratings-title">
+      <!-- 2) Classificacao geral -->
+      <section id="classificacao" class="section-block" aria-labelledby="ratings-title">
         <div class="section-heading">
           <p class="section-number">2.</p>
           <div>
-            <h2 id="ratings-title">Classificação</h2>
+            <h2 id="ratings-title">Classificacao</h2>
           </div>
         </div>
         <div id="ratings-grid" class="ratings-grid" aria-live="polite"></div>
       </section>
 
-      <section id="lista-completa" class="section-block" aria-labelledby="sources-title" >
+      <!-- 3) Lista completa com busca e filtros -->
+      <section id="completo" class="section-block" aria-labelledby="sources-title">
         <div class="section-heading">
           <p class="section-number">3.</p>
           <div>
@@ -61,14 +71,28 @@
         <div class="toolbar" aria-label="Filtros da lista completa">
           <label class="search-field" for="search-input">
             <span class="search-field__icon" aria-hidden="true">⌕</span>
-            <input id="search-input" type="search" name="search" placeholder="Filtrar por nome ou categoria" autocomplete="off" >
+            <input id="search-input" type="search" name="search" placeholder="Filtrar por nome ou categoria" autocomplete="off">
           </label>
-          
-          <div class="filter-pills" role="tablist" aria-label="Filtrar por status">
-            <button type="button" class="filter-pill is-active" data-filter="todos">Todos</button>
-            <button type="button" class="filter-pill" data-filter="em-uso">Em uso</button>
-            <button type="button" class="filter-pill" data-filter="aguardando">Andamento</button>
-            <button type="button" class="filter-pill" data-filter="em-analise">Para analise</button>
+
+          <div class="toolbar__controls">
+            <div class="filter-group">
+              <p class="filter-group__label">Status</p>
+              <div class="filter-pills" role="tablist" aria-label="Filtrar por status">
+                <button type="button" class="filter-pill is-active" data-filter-type="status" data-filter-value="todos">Todos</button>
+                <button type="button" class="filter-pill" data-filter-type="status" data-filter-value="em-uso">Em uso</button>
+                <button type="button" class="filter-pill" data-filter-type="status" data-filter-value="aguardando">Andamento</button>
+                <button type="button" class="filter-pill" data-filter-type="status" data-filter-value="em-analise">Para analise</button>
+              </div>
+            </div>
+
+            <div class="filter-group">
+              <p class="filter-group__label">Classificacao</p>
+              <div class="filter-pills" role="tablist" aria-label="Filtrar por classificacao">
+                <button type="button" class="filter-pill is-active" data-filter-type="classification" data-filter-value="todas">Todas</button>
+                <button type="button" class="filter-pill" data-filter-type="classification" data-filter-value="positivo">Positivo</button>
+                <button type="button" class="filter-pill" data-filter-type="classification" data-filter-value="negativo">Negativo</button>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -94,12 +118,34 @@
       </section>
     </main>
 
+    <!-- Rodapé -->
     <footer class="footer">
-      <p>Mantenha a ordem. Aceite o absurdo.</p>
-      <p>Documento interno • Base estatica</p>
+      <div class="container footer-inner">
+        <span class="footer-copy">
+          <span class="copyleft">©</span> 2026 — Francisco de Paula
+        </span>
+
+        <div class="footer-links">
+          <a href="https://euchico.github.io" class="footer-link" target="_blank" rel="noopener noreferrer">
+            euChico
+            <span class="sr-only">(abre em nova aba)</span>
+          </a>
+
+          <a href="https://github.com/euchico" class="footer-link" target="_blank" rel="noopener noreferrer">
+            GitHub
+            <span class="sr-only">(abre em nova aba)</span>
+          </a>
+
+          <a href="https://www.linkedin.com/in/euchico" class="footer-link" target="_blank" rel="noopener noreferrer">
+            LinkedIn
+            <span class="sr-only">(abre em nova aba)</span>
+          </a>
+        </div>
+      </div>
     </footer>
   </div>
 
+  <!-- Script principal -->
   <script type="module" src="assets/js/app.js"></script>
 </body>
 </html>

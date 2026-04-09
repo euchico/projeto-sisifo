@@ -1,3 +1,4 @@
+/* Variaveis visuais base */
 :root {
   --bg: #f4f1ea;
   --surface: rgba(255, 255, 255, 0.72);
@@ -21,6 +22,7 @@
   --shadow: 0 18px 40px rgba(76, 66, 45, 0.05);
 }
 
+/* Reset e comportamento global */
 * {
   box-sizing: border-box;
 }
@@ -48,8 +50,9 @@ input {
   font: inherit;
 }
 
+/* Estrutura principal */
 .page-shell {
-  width: min(100%, 760px);
+  width: min(100%, 980px);
   margin: 0 auto;
   padding: 1.5rem 1rem 4rem;
 }
@@ -95,6 +98,7 @@ input {
   gap: 4rem;
 }
 
+/* Bloco de abertura */
 .hero {
   text-align: center;
   padding: 1rem 0 0.5rem;
@@ -102,12 +106,10 @@ input {
 
 .eyebrow,
 .section-note,
-.table-subtext,
 .empty-state,
 .footer,
 .subgroup__description,
-.link-text,
-.rating-score {
+.link-text {
   font-family: var(--mono);
 }
 
@@ -168,6 +170,7 @@ input {
   letter-spacing: 0.03em;
 }
 
+/* Cards e tabelas */
 .stacked-groups,
 .ratings-grid {
   display: grid;
@@ -179,7 +182,6 @@ input {
 .table-card {
   background: var(--surface);
   border: 1px solid rgba(255, 255, 255, 0.65);
-  border-radius: 18px;
   box-shadow: var(--shadow);
   overflow: hidden;
   backdrop-filter: blur(12px);
@@ -260,18 +262,9 @@ input {
   font-weight: 500;
 }
 
-.table-subtext {
-  display: block;
-  margin-top: 0.28rem;
-  color: var(--muted);
-  font-size: 0.72rem;
-  line-height: 1.4;
-}
-
 .status-badge {
   display: inline-flex;
   align-items: center;
-  border-radius: 999px;
   padding: 0.28rem 0.62rem;
   font-family: var(--mono);
   font-size: 0.68rem;
@@ -300,8 +293,9 @@ input {
   color: var(--status-gray-text);
 }
 
+/* Classificacao geral em pilha vertical */
 .ratings-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 1fr;
 }
 
 .rating-card {
@@ -309,11 +303,11 @@ input {
   border-left: 3px solid transparent;
 }
 
-.rating-card[data-sentiment="positivo"] {
+.rating-card[data-classification="positivo"] {
   border-left-color: var(--positive);
 }
 
-.rating-card[data-sentiment="negativo"] {
+.rating-card[data-classification="negativo"] {
   border-left-color: var(--negative);
 }
 
@@ -331,27 +325,22 @@ input {
 .rating-dot {
   width: 0.55rem;
   height: 0.55rem;
-  border-radius: 999px;
 }
 
-.rating-card[data-sentiment="positivo"] .rating-dot {
+.rating-card[data-classification="positivo"] .rating-dot {
   background: var(--positive);
 }
 
-.rating-card[data-sentiment="negativo"] .rating-dot {
+.rating-card[data-classification="negativo"] .rating-dot {
   background: var(--negative);
 }
 
-.rating-score {
-  color: var(--muted);
-  font-size: 0.7rem;
-}
-
+/* Barra de busca e filtros */
 .toolbar {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr);
   gap: 1rem;
-  align-items: center;
+  align-items: start;
   margin-bottom: 1rem;
 }
 
@@ -362,7 +351,6 @@ input {
   min-height: 46px;
   padding: 0 0.85rem;
   border: 1px solid var(--border);
-  border-radius: 999px;
   background: var(--surface-strong);
   box-shadow: var(--shadow);
 }
@@ -385,17 +373,34 @@ input {
   color: #9b9487;
 }
 
+.toolbar__controls {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.filter-group {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.filter-group__label {
+  margin: 0;
+  font-family: var(--mono);
+  color: var(--muted);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
 .filter-pills {
   display: flex;
   gap: 0.5rem;
   flex-wrap: wrap;
-  justify-content: flex-end;
 }
 
 .filter-pill {
   padding: 0.45rem 0.75rem;
   border: 1px solid var(--border);
-  border-radius: 999px;
   background: rgba(255, 255, 255, 0.55);
   color: var(--muted);
   cursor: pointer;
@@ -424,16 +429,47 @@ input {
 }
 
 .link-text {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.15rem;
+  height: 1.15rem;
   color: var(--muted);
-  font-size: 0.72rem;
+  font-size: 0.68rem;
+  border: 1px solid var(--border);
+  line-height: 1;
   text-decoration: none;
-  border-bottom: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.classification-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.62rem;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  background: var(--status-gray);
+  color: var(--status-gray-text);
+}
+
+.classification-badge[data-classification="positivo"] {
+  background: var(--status-green);
+  color: var(--status-green-text);
+}
+
+.classification-badge[data-classification="negativo"] {
+  background: var(--status-red);
+  color: var(--status-red-text);
 }
 
 .link-text:hover,
 .link-text:focus-visible {
   color: var(--text);
   border-color: var(--border-strong);
+  background: rgba(255, 255, 255, 0.82);
 }
 
 .empty-state {
@@ -443,6 +479,7 @@ input {
   text-align: center;
 }
 
+/*
 .footer {
   display: flex;
   justify-content: space-between;
@@ -458,6 +495,83 @@ input {
 .footer p {
   margin: 0;
 }
+*/
+
+/* ======
+8. FOOTER
+========= */
+.footer {
+  padding: 2.5rem 0 2rem;
+  border-top: 1px solid var(--border);
+  margin-top: 4rem;
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+
+.footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.footer-copy {
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.04em;
+  color: inherit;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.footer-link {
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 140ms ease, border-color 140ms ease;
+}
+
+.footer-link:hover,
+.footer-link:focus-visible {
+  color: var(--text);
+  border-bottom-color: var(--border-strong);
+}
+
+.copyleft {
+  display: inline-block;
+  transform: scaleX(-1);
+}
+
+/* ==============
+9. ACESSIBILIDADE
+================= */
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+
+/* ===============
+10. RESPONSIVIDADE
+================== */
 
 @media (max-width: 760px) {
   .page-shell {
@@ -466,8 +580,7 @@ input {
 
   .topbar,
   .toolbar,
-  .footer,
-  .ratings-grid {
+  .footer {
     grid-template-columns: 1fr;
     display: grid;
   }
@@ -482,7 +595,12 @@ input {
   }
 
   .footer {
-    gap: 0.5rem;
+    gap: 0.6rem;
+    padding-top: 1.6rem;
+  }
+
+  .footer-inner {
+    align-items: flex-start;
   }
 }
 
