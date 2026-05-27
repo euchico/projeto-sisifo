@@ -29,8 +29,8 @@ initialize();
 async function initialize() {
   try {
     const [sources, selectedGroups] = await Promise.all([
-      fetchJson("assets/data/sources.json"),
-      fetchJson("assets/data/selected-groups.json"),
+      fetchJson("data/sources.json"),
+      fetchJson("data/selected-groups.json"),
     ]);
 
     state.sources = normalizeSources(sources);

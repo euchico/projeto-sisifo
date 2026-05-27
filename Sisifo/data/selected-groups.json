@@ -1,20 +1,8 @@
 ﻿[
   {
-    "title": "Noticias",
-    "description": "Fontes para contexto de mercado, leitura de tendencias e observacao do discurso tecnico.",
+    "title": "Notícias",
+    "description": "Fontes de notícias e atualizações sobre o mercado de trabalho.",
     "categoryKey": "noticias",
-    "order": 1
-  },
-  {
-    "title": "Social",
-    "description": "Espacos de presenca, networking e descoberta indireta de oportunidades.",
-    "categoryKey": "social",
-    "order": 2
-  },
-  {
-    "title": "Trabalho",
-    "description": "Fontes diretas para candidatura e triagem de vagas com maior chance de retorno.",
-    "categoryKey": "trabalho",
-    "order": 3
+    "order": 0
   }
 ]
