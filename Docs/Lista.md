@@ -3,7 +3,39 @@
 ## Lista de Oportunidades
 
 *Um painel pessoal para registrar sites, plataformas e redes utilizados na rotina de busca por oportunidades profissionais.*
-*(!) Lista de sites com status positivo*
+
+---
+
+### Selecionados
+
+#### Notícias
+
+1. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
+
+#### Social
+
+1. LinkedIn Jobs (http://br.linkedin.com/jobs)
+
+#### Freelance
+
+1. 99Freelas (http://99freelas.com.br)
+
+---
+
+### Classificação
+
+#### Positiva
+
+1. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
+1. LinkedIn Jobs (http://br.linkedin.com/jobs)
+
+#### Neutra
+
+1. 99Freelas (http://99freelas.com.br)
+
+#### Negativa
+
+1. 99jobs (http://99jobs.com)
 
 ---
 
@@ -23,6 +55,7 @@
    - Vagas TI (https://www.facebook.com/groups/vagastecinf)
    - Vagas Programadores/Desenvolvedores (https://www.facebook.com/groups/vagasdev)
    - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://www.facebook.com/groups/vagasdesenvolvimento)
+1. Freelancer (http://freelancer.com.br)
 1. Freelancer (http://br.freelancer.com)
 1. Freelancer Select (http://freelancerselect.com.br)
 1. GetNinjas (http://getninjas.com.br)
@@ -50,12 +83,3 @@
 1. Vinteconto (http://vinteconto.com.br)
 1. VintePila (http://vintepila.com.br)
 1. Workana (http://workana.com)
-
-
---- 
-
-
-| Site | Link | Categoria |
-| --- | --- | --- |
-| A | 1 | Inteiro |
-

@@ -10,6 +10,7 @@ const state = {
 // Rotulos apresentados no badge de status
 const statusLabels = {
   "em-uso": "Em uso",
+  "casual": "Casualmente",
   "aguardando": "Andamento",
   "em-analise": "Para analise",
   "descartado": "Descartado",
@@ -22,6 +23,7 @@ const sourcesTableBody = document.querySelector("#sources-table-body");
 const emptyState = document.querySelector("#sources-empty");
 const searchInput = document.querySelector("#search-input");
 const filterButtons = Array.from(document.querySelectorAll(".filter-pill"));
+const runtimeStamp = Date.now();
 
 initialize();
 
@@ -29,8 +31,8 @@ initialize();
 async function initialize() {
   try {
     const [sources, selectedGroups] = await Promise.all([
-      fetchJson("data/sources.json"),
-      fetchJson("data/selected-groups.json"),
+      fetchJson(`data/sources.json?v=${runtimeStamp}`),
+      fetchJson(`data/selected-groups.json?v=${runtimeStamp}`),
     ]);
 
     state.sources = normalizeSources(sources);
@@ -45,7 +47,7 @@ async function initialize() {
 
 // Carrega um arquivo JSON
 async function fetchJson(path) {
-  const response = await fetch(path);
+  const response = await fetch(path, { cache: "no-store" });
 
   if (!response.ok) {
     throw new Error(`Falha ao carregar ${path}`);
@@ -63,14 +65,11 @@ function normalizeSources(sources) {
   return sources.map((item) => ({
     id: item.id || slugify(item.name || ""),
     name: item.name || "Sem nome",
-    category: item.category || "Sem categoria",
+    category: normalizeCategory(item.category),
     description: item.description || "",
     motivation: item.motivation || "",
     status: item.status || "aguardando",
     url: item.url || "#",
-    classification: normalizeClassification(item.classification),
-    selected: item.selected === true,
-    selectedGroup: item.selectedGroup || "",
     order: Number.isFinite(item.order) ? item.order : 999,
   }));
 }
@@ -91,19 +90,10 @@ function normalizeSelectedGroups(groups) {
     .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title, "pt-BR"));
 }
 
-// Normaliza classificacao para positivo/negativo
-function normalizeClassification(value) {
-  const normalized = String(value || "").trim().toLowerCase();
-
-  if (normalized === "negativo") {
-    return "negativo";
-  }
-
-  if (normalized === "positivo") {
-    return "positivo";
-  }
-
-  return "";
+// Normaliza categoria e remove marcadores legados
+function normalizeCategory(value) {
+  const normalized = String(value || "").trim();
+  return normalized === "<REMOVER>" ? "" : normalized;
 }
 
 // Liga interacoes de filtro e busca
@@ -155,7 +145,6 @@ function renderSelectedGroups() {
               <td data-label="Site">
                 <p class="cell-title">${escapeHtml(item.name)}</p>
               </td>
-              <td data-label="Categoria">${escapeHtml(item.category)}</td>
               <td data-label="Observacao">${escapeHtml(item.description)}</td>
               <td data-label="Status">${createStatusBadge(item.status)}</td>
               <td data-label="Link">${createLink(item.url)}</td>
@@ -175,7 +164,6 @@ function renderSelectedGroups() {
               <thead>
                 <tr>
                   <th scope="col">Site</th>
-                  <th scope="col">Categoria</th>
                   <th scope="col">Observacao</th>
                   <th scope="col">Status</th>
                   <th scope="col">Link</th>
@@ -193,15 +181,15 @@ function renderSelectedGroups() {
 // Retorna fontes selecionadas de um grupo em ordem manual
 function getSelectedSourcesByGroup(categoryKey) {
   return state.sources
-    .filter((item) => item.selected && item.selectedGroup === categoryKey)
+    .filter((item) => isSourceSelected(item) && item.category === categoryKey)
     .sort((a, b) => a.order - b.order || a.name.localeCompare(b.name, "pt-BR"));
 }
 
 // Renderiza os blocos de classificacao positiva e negativa
 function renderRatings() {
   const groupedRatings = {
-    positivo: state.sources.filter((item) => item.classification === "positivo"),
-    negativo: state.sources.filter((item) => item.classification === "negativo"),
+    positivo: state.sources.filter((item) => getSourceClassification(item) === "positivo"),
+    negativo: state.sources.filter((item) => getSourceClassification(item) === "negativo"),
   };
 
   ratingsGrid.innerHTML = Object.entries(groupedRatings)
@@ -217,6 +205,7 @@ function renderRatings() {
               </td>
               <td data-label="Motivo">${escapeHtml(item.motivation || "Sem motivacao registrada.")}</td>
               <td data-label="Avaliacao">${createClassificationBadge(item)}</td>
+              <td data-label="Status">${createStatusBadge(item.status)}</td>
             </tr>
           `,
         )
@@ -234,6 +223,7 @@ function renderRatings() {
                 <th scope="col">Site</th>
                 <th scope="col">Motivo</th>
                 <th scope="col">Avaliacao</th>
+                <th scope="col">Status</th>
               </tr>
             </thead>
             <tbody>${rows}</tbody>
@@ -255,7 +245,6 @@ function renderSources() {
           <td data-label="Site">
             <p class="cell-title">${escapeHtml(item.name)}</p>
           </td>
-          <td data-label="Categoria">${escapeHtml(item.category)}</td>
           <td data-label="Observacao">${escapeHtml(item.description)}</td>
           <td data-label="Classificacao">${createClassificationBadge(item)}</td>
           <td data-label="Status">${createStatusBadge(item.status)}</td>
@@ -274,8 +263,8 @@ function getFilteredSources() {
     .filter((item) => {
       const matchesStatus = state.statusFilter === "todos" || item.status === state.statusFilter;
       const matchesClassification =
-        state.classificationFilter === "todas" || item.classification === state.classificationFilter;
-      const haystack = `${item.name} ${item.category}`.toLowerCase();
+        state.classificationFilter === "todas" || getSourceClassification(item) === state.classificationFilter;
+      const haystack = `${item.name}`.toLowerCase();
       const matchesQuery = state.query === "" || haystack.includes(state.query);
       return matchesStatus && matchesClassification && matchesQuery;
     })
@@ -303,12 +292,19 @@ function createStatusBadge(status) {
 
 // Gera badge de classificacao positivo/negativo
 function createClassificationBadge(source) {
-  if (!source.classification) {
-    return '<span class="classification-badge">Nao classificado</span>';
-  }
+  const classification = getSourceClassification(source);
+  const label = classification === "positivo" ? "Positivo" : "Negativo";
+  return `<span class="classification-badge" data-classification="${classification}">${label}</span>`;
+}
 
-  const label = source.classification === "positivo" ? "Positivo" : "Negativo";
-  return `<span class="classification-badge" data-classification="${source.classification}">${label}</span>`;
+// Fonte com categoria e considerada selecionada e positiva
+function isSourceSelected(source) {
+  return source.category !== "";
+}
+
+// Classificacao e derivada da presenca de categoria
+function getSourceClassification(source) {
+  return isSourceSelected(source) ? "positivo" : "negativo";
 }
 
 // Gera link externo para a fonte

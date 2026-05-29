@@ -4,5 +4,17 @@
     "description": "Fontes de notícias e atualizações sobre o mercado de trabalho.",
     "categoryKey": "noticias",
     "order": 0
+  },
+  {
+    "title": "Social",
+    "description": "Redes sociais e comunidades online para networking e oportunidades de trabalho.",
+    "categoryKey": "social",
+    "order": 1
+  },
+  {
+    "title": "Freelance",
+    "description": "Plataformas e fontes para oportunidades de trabalho freelance.",
+    "categoryKey": "freelance",
+    "order": 2
   }
 ]

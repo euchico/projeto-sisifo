@@ -11,6 +11,8 @@
   --serif: "EB Garamond", "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
   --status-green: #d9eed6;
   --status-green-text: #35603d;
+  --status-blue: #d6e0ee;
+  --status-blue-text: #35627c;
   --status-yellow: #f3e4b9;
   --status-yellow-text: #775b18;
   --status-red: #efdbd6;
@@ -276,6 +278,11 @@ input {
 .status-badge[data-status="em-uso"] {
   background: var(--status-green);
   color: var(--status-green-text);
+}
+
+.status-badge[data-status="casual"] {
+  background: var(--status-blue);
+  color: var(--status-blue-text);
 }
 
 .status-badge[data-status="aguardando"] {

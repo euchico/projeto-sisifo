@@ -1,15 +1,51 @@
 ﻿[
+    {
+    "id": "99freelas",
+    "name": "99Freelas",
+    "category": "freelance",
+    "description": "Plataforma de freelancers para público brasileiro em geral.",
+    "motivation": "Versão gratuita bem limitada, porém bom para captar ideias de projetos.",
+    "status": "casual",
+    "url": "https://www.99freelas.com.br/",
+    "order": 0
+  },
+  {
+    "id": "99jobs",
+    "name": "99jobs",
+    "description": "Plataforma de vagas de emprego a partir da listagem de empresas registradas.",
+    "motivation": "Conteúdo defasado e desatualizado com poucas oportunidades listadas.",
+    "status": "descartado",
+    "url": "http://99jobs.com",
+    "order": 1
+  },
   {
     "id": "blog-edimilson",
     "name": "Blog Edimilson Ávila",
-    "category": "<REMOVER>",
+    "category": "noticias",
     "description": "Blog do jornalista Edimilson Ávila, com notícias de vaga de emprego e curso no Rio de Janeiro.",
-    "motivation": "Maior concentracao de vagas e acesso direto a recrutadores.",
+    "motivation": "Informações 'regionais' atualizadas semanalmente.",
     "status": "em-uso",
     "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/",
-    "classification": "positivo",
-    "selected": true,
-    "selectedGroup": "noticias",
-    "order": 0
+    "order": 2
+  },
+  {
+    "id": "catho",
+    "name": "Catho",
+    "category": "vagas",
+    "description": "Plataforma de vagas de emprego no Brasil.",
+    "motivation": "Uma das maiores plataformas de vagas do Brasil, com ampla cobertura.",
+    "status": "em-uso",
+    "url": "https://www.catho.com.br/",
+    "order": 3
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn Jobs",
+    "category": "social",
+    "description": "Rede social profissional para networking e oportunidades de trabalho.",
+    "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
+    "status": "em-uso",
+    "url": "http://br.linkedin.com/jobs",
+    "order": 4
   }
 ]

@@ -71,10 +71,19 @@
         <div class="toolbar" aria-label="Filtros da lista completa">
           <label class="search-field" for="search-input">
             <span class="search-field__icon" aria-hidden="true">⌕</span>
-            <input id="search-input" type="search" name="search" placeholder="Filtrar por nome ou categoria" autocomplete="off">
+            <input id="search-input" type="search" name="search" placeholder="Filtrar por nome" autocomplete="off">
           </label>
 
           <div class="toolbar__controls">
+            <div class="filter-group">
+              <p class="filter-group__label">Classificacao</p>
+              <div class="filter-pills" role="tablist" aria-label="Filtrar por classificacao">
+                <button type="button" class="filter-pill is-active" data-filter-type="classification" data-filter-value="todas">Todas</button>
+                <button type="button" class="filter-pill" data-filter-type="classification" data-filter-value="positivo">Positivo</button>
+                <button type="button" class="filter-pill" data-filter-type="classification" data-filter-value="negativo">Negativo</button>
+              </div>
+            </div>
+            
             <div class="filter-group">
               <p class="filter-group__label">Status</p>
               <div class="filter-pills" role="tablist" aria-label="Filtrar por status">
@@ -82,15 +91,6 @@
                 <button type="button" class="filter-pill" data-filter-type="status" data-filter-value="em-uso">Em uso</button>
                 <button type="button" class="filter-pill" data-filter-type="status" data-filter-value="aguardando">Andamento</button>
                 <button type="button" class="filter-pill" data-filter-type="status" data-filter-value="em-analise">Para analise</button>
-              </div>
-            </div>
-
-            <div class="filter-group">
-              <p class="filter-group__label">Classificacao</p>
-              <div class="filter-pills" role="tablist" aria-label="Filtrar por classificacao">
-                <button type="button" class="filter-pill is-active" data-filter-type="classification" data-filter-value="todas">Todas</button>
-                <button type="button" class="filter-pill" data-filter-type="classification" data-filter-value="positivo">Positivo</button>
-                <button type="button" class="filter-pill" data-filter-type="classification" data-filter-value="negativo">Negativo</button>
               </div>
             </div>
           </div>
@@ -101,7 +101,6 @@
             <thead>
               <tr>
                 <th scope="col">Site</th>
-                <th scope="col">Categoria</th>
                 <th scope="col">Observacao</th>
                 <th scope="col">Classificacao</th>
                 <th scope="col">Status</th>
@@ -145,7 +144,13 @@
     </footer>
   </div>
 
-  <!-- Script principal -->
-  <script type="module" src="src/script/app.js"></script>
+  <!-- Bootstrap de script com cache-busting para ambiente local -->
+  <script>
+    const buildStamp = Date.now();
+    const appScript = document.createElement("script");
+    appScript.type = "module";
+    appScript.src = `src/script/app.js?v=${buildStamp}`;
+    document.body.appendChild(appScript);
+  </script>
 </body>
 </html>
