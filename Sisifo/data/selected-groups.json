@@ -6,15 +6,21 @@
     "order": 0
   },
   {
-    "title": "Social",
-    "description": "Redes sociais e comunidades online para networking e oportunidades de trabalho.",
-    "categoryKey": "social",
+    "title": "Candidatura",
+    "description": "Sites e plataformas para encontrar vagas de emprego e se candidatar.",
+    "categoryKey": "candidatura",
     "order": 1
   },
   {
-    "title": "Freelance",
-    "description": "Plataformas e fontes para oportunidades de trabalho freelance.",
-    "categoryKey": "freelance",
+    "title": "Social",
+    "description": "Redes sociais e comunidades online para networking e oportunidades de trabalho.",
+    "categoryKey": "social",
     "order": 2
+  },
+  {
+    "title": "Freelance",
+    "description": "Plataformas e fontes de oportunidades de trabalho freelance.",
+    "categoryKey": "freelance",
+    "order": 3
   }
 ]

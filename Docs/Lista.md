@@ -16,6 +16,11 @@
 
 1. LinkedIn Jobs (http://br.linkedin.com/jobs)
 
+#### Candidatura
+
+1. Catho (https://catho.com.br)
+1. Glassdoor (https://www.glassdoor.com.br)
+
 #### Freelance
 
 1. 99Freelas (http://99freelas.com.br)
@@ -27,15 +32,19 @@
 #### Positiva
 
 1. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
+1. Catho (https://catho.com.br)
 1. LinkedIn Jobs (http://br.linkedin.com/jobs)
+1. Glassdoor (https://www.glassdoor.com.br)
 
 #### Neutra
 
 1. 99Freelas (http://99freelas.com.br)
+1. 99jobs (http://99jobs.com)
 
 #### Negativa
 
-1. 99jobs (http://99jobs.com)
+1. Comunica Freelancer (https://comunicafreelancer.com.br)
+1. Contratanet (http://contratanet.com.br)
 
 ---
 
@@ -52,13 +61,14 @@
 1. Empregos (http://empregos.com.br)
 1. Escola Contrata (http://escolacontrata.com.br)
 1. Facebook Groups (https://facebook.com/groups)
-   - Vagas TI (https://www.facebook.com/groups/vagastecinf)
-   - Vagas Programadores/Desenvolvedores (https://www.facebook.com/groups/vagasdev)
-   - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://www.facebook.com/groups/vagasdesenvolvimento)
+   - Vagas TI (https://fb.com/groups/vagastecinf)
+   - Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
+   - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
 1. Freelancer (http://freelancer.com.br)
 1. Freelancer (http://br.freelancer.com)
 1. Freelancer Select (http://freelancerselect.com.br)
 1. GetNinjas (http://getninjas.com.br)
+1. Glassdoor (https://www.glassdoor.com.br)
 1. Google Careers (http://careers.google.com)
 1. HireApp (http://hire-app.com.br)
 1. Home Agent (http://homeagent.com.br)

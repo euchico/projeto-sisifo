@@ -31,12 +31,30 @@
   {
     "id": "catho",
     "name": "Catho",
-    "category": "vagas",
-    "description": "Plataforma de vagas de emprego no Brasil.",
+    "category": "candidatura",
+    "description": "Uma das principais plataforma de vagas de emprego no Brasil.",
     "motivation": "Uma das maiores plataformas de vagas do Brasil, com ampla cobertura.",
     "status": "em-uso",
     "url": "https://www.catho.com.br/",
     "order": 3
+  },
+  {
+    "id": "comunica-freela",
+    "name": "Comunica Freelancer",
+    "description": "Plataforma de freelancer.",
+    "motivation": "Plataforma descontinuada.",
+    "status": "descartado",
+    "url": "https://comunicafreelancer.com.br",
+    "order": 4
+  },
+  {
+    "id": "contratanet",
+    "name": "Contratanet",
+    "description": "Plataforma de vagas de emprego.",
+    "motivation": "Plataforma descontinuada.",
+    "status": "descartado",
+    "url": "http://contratanet.com.br",
+    "order": 5
   },
   {
     "id": "linkedin",
@@ -46,6 +64,16 @@
     "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 4
+    "order": 6
+  },
+  {
+    "id": "glassdoor",
+    "name": "Glassdoor",
+    "category": "candidatura",
+    "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado",
+    "motivation": "Plataforma com informações interna sobre as empresas e vagas.",
+    "status": "em-uso",
+    "url": "https://www.glassdoor.com.br",
+    "order": 7
   }
 ]
