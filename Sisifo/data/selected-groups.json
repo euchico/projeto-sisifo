@@ -22,5 +22,12 @@
     "description": "Plataformas e fontes de oportunidades de trabalho freelance.",
     "categoryKey": "freelance",
     "order": 3
+  },
+  {
+    "title": "Acesso Eventual",
+    "description": "Demais sites para acesso eventual e com menor prioridade.",
+    "categoryKey": "eventual",
+    "order": 4
   }
+
 ]

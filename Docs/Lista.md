@@ -19,11 +19,18 @@
 #### Candidatura
 
 1. Catho (https://catho.com.br)
+1. Empregos.com.br (http://empregos.com.br)
 1. Glassdoor (https://www.glassdoor.com.br)
 
 #### Freelance
 
+
+
+#### Acesso Eventual
+
 1. 99Freelas (http://99freelas.com.br)
+1. 99jobs (http://99jobs.com)
+1. Crowd (http://crowd.br.com)
 
 ---
 
@@ -33,6 +40,7 @@
 
 1. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
 1. Catho (https://catho.com.br)
+1. Empregos.com.br (http://empregos.com.br)
 1. LinkedIn Jobs (http://br.linkedin.com/jobs)
 1. Glassdoor (https://www.glassdoor.com.br)
 
@@ -40,11 +48,13 @@
 
 1. 99Freelas (http://99freelas.com.br)
 1. 99jobs (http://99jobs.com)
+1. Crowd (http://crowd.br.com)
 
 #### Negativa
 
 1. Comunica Freelancer (https://comunicafreelancer.com.br)
 1. Contratanet (http://contratanet.com.br)
+1. Emprego Certo UOL (http://empregocerto.uol.com.br)
 
 ---
 
@@ -56,9 +66,9 @@
 1. Catho (https://catho.com.br)
 1. Comunica Freelancer (https://comunicafreelancer.com.br)
 1. Contratanet (http://contratanet.com.br)
-1. Crowd (http://crowd.br.com)
+1. CROWD (http://crowd.br.com)
 1. Emprego Certo UOL (http://empregocerto.uol.com.br)
-1. Empregos (http://empregos.com.br)
+1. Empregos.com.br (http://empregos.com.br)
 1. Escola Contrata (http://escolacontrata.com.br)
 1. Facebook Groups (https://facebook.com/groups)
    - Vagas TI (https://fb.com/groups/vagastecinf)

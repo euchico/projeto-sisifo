@@ -2,9 +2,9 @@
     {
     "id": "99freelas",
     "name": "99Freelas",
-    "category": "freelance",
+    "category": "eventual",
     "description": "Plataforma de freelancers para público brasileiro em geral.",
-    "motivation": "Versão gratuita bem limitada, porém bom para captar ideias de projetos.",
+    "motivation": "Versão gratuita muito limitada, porém válido para captar ideias.",
     "status": "casual",
     "url": "https://www.99freelas.com.br/",
     "order": 0
@@ -12,9 +12,10 @@
   {
     "id": "99jobs",
     "name": "99jobs",
+    "category": "eventual",
     "description": "Plataforma de vagas de emprego a partir da listagem de empresas registradas.",
-    "motivation": "Conteúdo defasado e desatualizado com poucas oportunidades listadas.",
-    "status": "descartado",
+    "motivation": "Conteúdo defasado e com poucas oportunidades listadas.",
+    "status": "casual",
     "url": "http://99jobs.com",
     "order": 1
   },
@@ -57,6 +58,35 @@
     "order": 5
   },
   {
+    "id": "crowd",
+    "name": "CROWD",
+    "category": "eventual",
+    "description": "Plataforma de matching de oportunidades e profissionais.",
+    "motivation": "Pouco conteúdo e site focado em designers.",
+    "status": "casual",
+    "url": "http://crowd.br.com",
+    "order": 6
+  },
+  {
+    "id": "emprego-uol",
+    "name": "Emprego Certo UOL",
+    "description": "Plataforma de vagas de emprego.",
+    "motivation": "Plataforma descontinuada.",
+    "status": "descartado",
+    "url": "http://emprego.uol.com.br",
+    "order": 7
+  },
+  {
+    "id": "empregos",
+    "name": "Empregos.com.br",
+    "category": "candidatura",
+    "description": "Está entre os principais portais de empregos e carreiras do Brasil",
+    "motivation": "Muitas oportunidades listadas, porém poucos detalhes dos processos seletivos.",
+    "status": "em-uso",
+    "url": "http://empregos.com.br",
+    "order": 8
+  },
+  {
     "id": "linkedin",
     "name": "LinkedIn Jobs",
     "category": "social",
@@ -64,7 +94,7 @@
     "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 6
+    "order": 9
   },
   {
     "id": "glassdoor",
@@ -74,6 +104,6 @@
     "motivation": "Plataforma com informações interna sobre as empresas e vagas.",
     "status": "em-uso",
     "url": "https://www.glassdoor.com.br",
-    "order": 7
+    "order": 10
   }
 ]
