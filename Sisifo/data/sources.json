@@ -20,6 +20,15 @@
     "order": 1
   },
   {
+    "id": "bettha",
+    "name": "Bettha",
+    "description": "Plataforma de estágio e trainee, conectandojovens talentos às melhores oportunidades.",
+    "motivation": "Foco na em estágio e trainee. * Terminar preenchimento.",
+    "status": "descartado",
+    "url": "https://www.bettha.com",
+    "order": 2
+  },
+  {
     "id": "blog-edimilson",
     "name": "Blog Edimilson Ávila",
     "category": "noticias",
@@ -27,7 +36,7 @@
     "motivation": "Informações 'regionais' atualizadas semanalmente.",
     "status": "em-uso",
     "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/",
-    "order": 2
+    "order": 3
   },
   {
     "id": "catho",
@@ -37,7 +46,7 @@
     "motivation": "Uma das maiores plataformas de vagas do Brasil, com ampla cobertura.",
     "status": "em-uso",
     "url": "https://www.catho.com.br/",
-    "order": 3
+    "order": 4
   },
   {
     "id": "comunica-freela",
@@ -46,7 +55,7 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "https://comunicafreelancer.com.br",
-    "order": 4
+    "order": 5
   },
   {
     "id": "contratanet",
@@ -55,7 +64,7 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "http://contratanet.com.br",
-    "order": 5
+    "order": 6
   },
   {
     "id": "crowd",
@@ -65,7 +74,7 @@
     "motivation": "Pouco conteúdo e site focado em designers.",
     "status": "casual",
     "url": "http://crowd.br.com",
-    "order": 6
+    "order": 7
   },
   {
     "id": "emprego-uol",
@@ -74,17 +83,36 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "http://emprego.uol.com.br",
-    "order": 7
+    "order": 8
   },
   {
     "id": "empregos",
     "name": "Empregos.com.br",
     "category": "candidatura",
-    "description": "Está entre os principais portais de empregos e carreiras do Brasil",
+    "description": "Está entre os principais portais de empregos e carreiras do Brasil.",
     "motivation": "Muitas oportunidades listadas, porém poucos detalhes dos processos seletivos.",
     "status": "em-uso",
     "url": "http://empregos.com.br",
-    "order": 8
+    "order": 9
+  },
+  {
+    "id": "escola-contrata",
+    "name": "Escola Contrata",
+    "description": "Portal focado no encontro entre os profissionais de educação e as instituições de ensino.",
+    "motivation": "Plataforma descontinuada.",
+    "status": "descartado",
+    "url": "http://escolacontrata.com.br",
+    "order": 10
+  },
+  {
+    "id": "facebook-groups",
+    "name": "Facebook Groups",
+    "category": "social",
+    "description": "Grupos do Facebook com oportunidades de trabalho e networking.",
+    "motivation": "Plataforma de amplo alcance, com grupos diversos focados em oportunidades profissionais.",
+    "status": "em-uso",
+    "url": "http://www.facebook.com/groups",
+    "order": 11
   },
   {
     "id": "linkedin",
@@ -94,16 +122,46 @@
     "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 9
+    "order": 12
+  },
+  {
+    "id": "mudes",
+    "name": "Mudes",
+    "category": "candidatura",
+    "description": "Uma organização sem fins lucrativos de capacitação e inclusão profissional.",
+    "motivation": "Poucas opotunidades para contratação CLT.",
+    "status": "casual",
+    "url": "http://mudes.org.br",
+    "order": 13
+  },
+  {
+    "id": "geekhunter",
+    "name": "GeekHunter",
+    "category": "candidatura",
+    "description": "Portal para recrutamento de profissionais de tecnologia.",
+    "motivation": "Maior número de oportunidades para níveis de senioridade mais avançados.",
+    "status": "em-uso",
+    "url": "http://geekhunter.com.br",
+    "order": 14
   },
   {
     "id": "glassdoor",
     "name": "Glassdoor",
     "category": "candidatura",
-    "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado",
-    "motivation": "Plataforma com informações interna sobre as empresas e vagas.",
+    "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado.",
+    "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
     "status": "em-uso",
     "url": "https://www.glassdoor.com.br",
-    "order": 10
+    "order": 15
+  },
+  {
+    "id": "programathor",
+    "name": "ProgramaThor",
+    "category": "candidatura",
+    "description": "Plataforma de oportunidades de emprego para profissionais de tecnologia.",
+    "motivation": "Foco em vagas para profissionais de tecnologia.",
+    "status": "em-uso",
+    "url": "https://www.programathor.com.br",
+    "order": 16
   }
 ]
