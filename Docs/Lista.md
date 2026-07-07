@@ -30,7 +30,7 @@
 
 #### Freelance
 
-
+1. Freelancer (http://freelancer.com.br)
 
 #### Acesso Eventual
 
@@ -49,6 +49,7 @@
 1. Catho (https://catho.com.br)
 1. Empregos.com.br (http://empregos.com.br)
 1. Facebook Groups (https://facebook.com/groups)
+1. Freelancer (http://freelancer.com.br)
 1. LinkedIn Jobs (http://br.linkedin.com/jobs)
 1. GeekHunter (https://www.geekhunter.com.br)
 1. Glassdoor (https://www.glassdoor.com.br)
@@ -88,8 +89,8 @@
    - Vagas TI (https://fb.com/groups/vagastecinf)
    - Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
    - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
-
 1. Freelancer (http://freelancer.com.br)
+
 1. Freelancer (http://br.freelancer.com)
 1. Freelancer Select (http://freelancerselect.com.br)
 
