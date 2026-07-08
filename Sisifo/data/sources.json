@@ -125,6 +125,16 @@
     "order": 12
   },
   {
+    "id": "brfreelancer",
+    "name": "Freelancer",
+    "category": "freelance",
+    "description": "Plataforma global de realização de trabalhos freelancers em diversas áreas.",
+    "motivation": "Concorrencia ampla com profissionais de todo o mundo, dificultando a competitividade.",
+    "status": "em-analise",
+    "url": "http://freelancer.com.br",
+    "order": 13
+  },
+  {
     "id": "linkedin",
     "name": "LinkedIn Jobs",
     "category": "social",
@@ -132,7 +142,7 @@
     "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 13
+    "order": 14
   },
   {
     "id": "mudes",
@@ -142,7 +152,7 @@
     "motivation": "Poucas opotunidades para contratação CLT.",
     "status": "casual",
     "url": "http://mudes.org.br",
-    "order": 14
+    "order": 15
   },
   {
     "id": "geekhunter",
@@ -152,7 +162,7 @@
     "motivation": "Maior número de oportunidades para níveis de senioridade mais avançados.",
     "status": "em-uso",
     "url": "http://geekhunter.com.br",
-    "order": 15
+    "order": 16
   },
   {
     "id": "glassdoor",
@@ -162,7 +172,7 @@
     "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
     "status": "em-uso",
     "url": "https://www.glassdoor.com.br",
-    "order": 16
+    "order": 17
   },
   {
     "id": "programathor",
@@ -172,6 +182,6 @@
     "motivation": "Foco em vagas para profissionais de tecnologia.",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
-    "order": 17
+    "order": 18
   }
 ]

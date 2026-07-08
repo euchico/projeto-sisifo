@@ -18,6 +18,9 @@
    - Vagas TI (https://fb.com/groups/vagastecinf)
    - Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
    - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
+1. GitHub (https://github.com)
+   - Front-end Brasil (https://github.com/frontendbr/vagas/issues)
+   - Back-end Brasil (https://github.com/backend-br/vagas/issues)
 1. LinkedIn Jobs (http://br.linkedin.com/jobs)
 
 #### Candidatura
@@ -30,12 +33,13 @@
 
 #### Freelance
 
-1. Freelancer (http://freelancer.com.br)
+1. Freelancer (http://br.freelancer.com)
 
 #### Acesso Eventual
 
 1. 99Freelas (http://99freelas.com.br)
 1. 99jobs (http://99jobs.com)
+1. Freelancer (http://freelancer.com.br)
 1. Crowd (http://crowd.br.com)
 1. Mudes (http://mudes.org.br)
 
@@ -50,6 +54,8 @@
 1. Empregos.com.br (http://empregos.com.br)
 1. Facebook Groups (https://facebook.com/groups)
 1. Freelancer (http://freelancer.com.br)
+1. Freelancer (http://br.freelancer.com)
+1. GitHub (https://github.com)
 1. LinkedIn Jobs (http://br.linkedin.com/jobs)
 1. GeekHunter (https://www.geekhunter.com.br)
 1. Glassdoor (https://www.glassdoor.com.br)
@@ -90,10 +96,11 @@
    - Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
    - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
 1. Freelancer (http://freelancer.com.br)
-
 1. Freelancer (http://br.freelancer.com)
+
 1. Freelancer Select (http://freelancerselect.com.br)
 
+1. GitHub (https://github.com)
 1. GeekHunter (https://www.geekhunter.com.br)
 
 1. GetNinjas (http://getninjas.com.br)
