@@ -135,6 +135,15 @@
     "order": 13
   },
   {
+    "id": "freelancerselect",
+    "name": "Freelancer Select",
+    "description": "Plataforma de freelancer.",
+    "motivation": "Plataforma descontinuada.",
+    "status": "descartado",
+    "url": "http://freelancerselect.com.br",
+    "order": 14
+  },
+  {
     "id": "linkedin",
     "name": "LinkedIn Jobs",
     "category": "social",
@@ -142,7 +151,7 @@
     "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 14
+    "order": 15
   },
   {
     "id": "mudes",
@@ -152,7 +161,7 @@
     "motivation": "Poucas opotunidades para contratação CLT.",
     "status": "casual",
     "url": "http://mudes.org.br",
-    "order": 15
+    "order": 16
   },
   {
     "id": "geekhunter",
@@ -162,7 +171,7 @@
     "motivation": "Maior número de oportunidades para níveis de senioridade mais avançados.",
     "status": "em-uso",
     "url": "http://geekhunter.com.br",
-    "order": 16
+    "order": 17
   },
   {
     "id": "glassdoor",
@@ -172,7 +181,16 @@
     "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
     "status": "em-uso",
     "url": "https://www.glassdoor.com.br",
-    "order": 17
+    "order": 18
+  },
+  {
+    "id": "procurandoemprego",
+    "name": "Procurando Emprego",
+    "description": "Plataforma de busca de emprego.",
+    "motivation": "Plataforma descontinuada.",
+    "status": "descartado",
+    "url": "http://www.procurandoemprego.net",
+    "order": 19
   },
   {
     "id": "programathor",
@@ -182,6 +200,6 @@
     "motivation": "Foco em vagas para profissionais de tecnologia.",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
-    "order": 18
+    "order": 20
   }
 ]

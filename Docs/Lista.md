@@ -75,6 +75,7 @@
 1. Contratanet (http://contratanet.com.br)
 1. Emprego Certo UOL (http://empregocerto.uol.com.br)
 1. Escola Contrata (http://escolacontrata.com.br)
+1. Freelancer Select (http://freelancerselect.com.br)
 
 ---
 
@@ -97,9 +98,7 @@
    - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
 1. Freelancer (http://freelancer.com.br)
 1. Freelancer (http://br.freelancer.com)
-
 1. Freelancer Select (http://freelancerselect.com.br)
-
 1. GitHub (https://github.com)
 1. GeekHunter (https://www.geekhunter.com.br)
 
@@ -114,6 +113,7 @@
 
 1. LinkedIn Jobs (http://br.linkedin.com/jobs)
 1. Mudes (http://mudes.org.br)
+1. Procurando Emprego (http://www.procurandoemprego.net)
 1. ProgramaThor (https://programathor.com.br)
 
 1. Reachr (http://reachr.com.br)
