@@ -7,7 +7,7 @@
     "motivation": "Versão gratuita muito limitada, porém válido para captar ideias.",
     "status": "casual",
     "url": "https://www.99freelas.com.br/",
-    "order": 0
+    "order": 1
   },
   {
     "id": "99jobs",
@@ -17,7 +17,7 @@
     "motivation": "Conteúdo defasado e com poucas oportunidades listadas.",
     "status": "casual",
     "url": "http://99jobs.com",
-    "order": 1
+    "order": 2
   },
   {
     "id": "bettha",
@@ -26,7 +26,7 @@
     "motivation": "Foco na em estágio e trainee. * Terminar preenchimento.",
     "status": "descartado",
     "url": "https://www.bettha.com",
-    "order": 2
+    "order": 3
   },
   {
     "id": "blog-edimilson",
@@ -36,7 +36,7 @@
     "motivation": "Informações 'regionais' atualizadas semanalmente.",
     "status": "em-uso",
     "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/",
-    "order": 3
+    "order": 4
   },
   {
     "id": "catho",
@@ -46,7 +46,7 @@
     "motivation": "Uma das maiores plataformas de vagas do Brasil, com ampla cobertura.",
     "status": "em-uso",
     "url": "https://www.catho.com.br/",
-    "order": 4
+    "order": 5
   },
   {
     "id": "comunica-freela",
@@ -55,7 +55,7 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "https://comunicafreelancer.com.br",
-    "order": 5
+    "order": 6
   },
   {
     "id": "contratanet",
@@ -64,7 +64,7 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "http://contratanet.com.br",
-    "order": 6
+    "order": 7
   },
   {
     "id": "crowd",
@@ -74,7 +74,7 @@
     "motivation": "Pouco conteúdo e site focado em designers.",
     "status": "casual",
     "url": "http://crowd.br.com",
-    "order": 7
+    "order": 8
   },
   {
     "id": "emprego-uol",
@@ -83,7 +83,7 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "http://emprego.uol.com.br",
-    "order": 8
+    "order": 9
   },
   {
     "id": "empregos",
@@ -93,7 +93,16 @@
     "motivation": "Muitas oportunidades listadas, porém poucos detalhes dos processos seletivos.",
     "status": "em-uso",
     "url": "http://empregos.com.br",
-    "order": 9
+    "order": 10
+  },
+  {
+    "id": "empregos-trovit",
+    "name": "Empregos Trovit",
+    "description": "Plataforma de vagas de emprego.",
+    "motivation": "Plataforma descontinuada.",
+    "status": "descartado",
+    "url": "https://empregos.trovit.com.br",
+    "order": 11
   },
   {
     "id": "escola-contrata",
@@ -102,7 +111,7 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "http://escolacontrata.com.br",
-    "order": 10
+    "order": 12
   },
   {
     "id": "facebook-groups",
@@ -112,7 +121,7 @@
     "motivation": "Plataforma de amplo alcance, com grupos diversos focados em oportunidades profissionais.",
     "status": "em-uso",
     "url": "http://www.facebook.com/groups",
-    "order": 11
+    "order": 13
   },
   {
     "id": "freelancercombr",
@@ -122,7 +131,7 @@
     "motivation": "Plataforma em análise",
     "status": "em-analise",
     "url": "http://freelancer.com.br",
-    "order": 12
+    "order": 14
   },
   {
     "id": "brfreelancer",
@@ -132,7 +141,7 @@
     "motivation": "Concorrencia ampla com profissionais de todo o mundo, dificultando a competitividade.",
     "status": "em-analise",
     "url": "http://freelancer.com.br",
-    "order": 13
+    "order": 15
   },
   {
     "id": "freelancerselect",
@@ -141,26 +150,6 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "http://freelancerselect.com.br",
-    "order": 14
-  },
-  {
-    "id": "linkedin",
-    "name": "LinkedIn Jobs",
-    "category": "social",
-    "description": "Rede social profissional para networking e oportunidades de trabalho.",
-    "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
-    "status": "em-uso",
-    "url": "http://br.linkedin.com/jobs",
-    "order": 15
-  },
-  {
-    "id": "mudes",
-    "name": "Mudes",
-    "category": "candidatura",
-    "description": "Uma organização sem fins lucrativos de capacitação e inclusão profissional.",
-    "motivation": "Poucas opotunidades para contratação CLT.",
-    "status": "casual",
-    "url": "http://mudes.org.br",
     "order": 16
   },
   {
@@ -171,6 +160,26 @@
     "motivation": "Maior número de oportunidades para níveis de senioridade mais avançados.",
     "status": "em-uso",
     "url": "http://geekhunter.com.br",
+    "order": 18
+  },
+  {
+    "id": "getninjas",
+    "name": "GetNinjas",
+    "category": "freelance",
+    "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado.",
+    "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
+    "status": "casual",
+    "url": "http://getninjas.com.br",
+    "order": 19
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "category": "social",
+    "description": "Rede social de desenvolvedores, com oportunidades de trabalho e networking.",
+    "motivation": "Oportunidade divulgadas em repositórios pontuais na plataforma.",
+    "status": "em-uso",
+    "url": "http://github.com",
     "order": 17
   },
   {
@@ -181,7 +190,27 @@
     "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
     "status": "em-uso",
     "url": "https://www.glassdoor.com.br",
-    "order": 18
+    "order": 20
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn Jobs",
+    "category": "social",
+    "description": "Rede social profissional para networking e oportunidades de trabalho.",
+    "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
+    "status": "em-uso",
+    "url": "http://br.linkedin.com/jobs",
+    "order": 21
+  },
+  {
+    "id": "mudes",
+    "name": "Fundação Mudes",
+    "category": "candidatura",
+    "description": "Uma organização sem fins lucrativos de capacitação e inclusão profissional.",
+    "motivation": "Poucas opotunidades para contratação CLT.",
+    "status": "casual",
+    "url": "http://mudes.org.br",
+    "order": 22
   },
   {
     "id": "procurandoemprego",
@@ -190,7 +219,7 @@
     "motivation": "Plataforma descontinuada.",
     "status": "descartado",
     "url": "http://www.procurandoemprego.net",
-    "order": 19
+    "order": 23
   },
   {
     "id": "programathor",
@@ -200,6 +229,6 @@
     "motivation": "Foco em vagas para profissionais de tecnologia.",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
-    "order": 20
+    "order": 24
   }
 ]
