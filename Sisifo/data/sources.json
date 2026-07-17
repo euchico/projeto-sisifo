@@ -1,10 +1,11 @@
 ﻿[
-    {
+  {
     "id": "99freelas",
     "name": "99Freelas",
     "category": "eventual",
     "description": "Plataforma de freelancers para público brasileiro em geral.",
     "motivation": "Versão gratuita muito limitada, porém válido para captar ideias.",
+    "classification": "neutral",
     "status": "casual",
     "url": "https://www.99freelas.com.br/",
     "order": 1
@@ -15,6 +16,7 @@
     "category": "eventual",
     "description": "Plataforma de vagas de emprego a partir da listagem de empresas registradas.",
     "motivation": "Conteúdo defasado e com poucas oportunidades listadas.",
+    "classification": "neutral",
     "status": "casual",
     "url": "http://99jobs.com",
     "order": 2
@@ -24,6 +26,7 @@
     "name": "Bettha",
     "description": "Plataforma de estágio e trainee, conectandojovens talentos às melhores oportunidades.",
     "motivation": "Foco na em estágio e trainee. * Terminar preenchimento.",
+    "classification": "neutral",
     "status": "descartado",
     "url": "https://www.bettha.com",
     "order": 3
@@ -34,6 +37,7 @@
     "category": "noticias",
     "description": "Blog do jornalista Edimilson Ávila, com notícias de vaga de emprego e curso no Rio de Janeiro.",
     "motivation": "Informações 'regionais' atualizadas semanalmente.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/",
     "order": 4
@@ -44,6 +48,7 @@
     "category": "candidatura",
     "description": "Uma das principais plataforma de vagas de emprego no Brasil.",
     "motivation": "Uma das maiores plataformas de vagas do Brasil.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "https://www.catho.com.br/",
     "order": 5
@@ -54,6 +59,7 @@
     "category": "eventual",
     "description": "Plataforma de oportunidades de vagas de estágio e trainee",
     "motivation": "Vagas selecionadas das empresas parceiras.",
+    "classification": "neutral",
     "status": "casual",
     "url": "https://comunicafreelancer.com.br",
     "order": 6
@@ -63,6 +69,7 @@
     "name": "Comunica Freelancer",
     "description": "Plataforma de freelancer.",
     "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
     "status": "descartado",
     "url": "https://comunicafreelancer.com.br",
     "order": 7
@@ -72,6 +79,7 @@
     "name": "Contratanet",
     "description": "Plataforma de vagas de emprego.",
     "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
     "status": "descartado",
     "url": "http://contratanet.com.br",
     "order": 8
@@ -82,6 +90,7 @@
     "category": "eventual",
     "description": "Plataforma de matching de oportunidades e profissionais.",
     "motivation": "Pouco conteúdo e site focado em designers.",
+    "classification": "neutral",
     "status": "casual",
     "url": "http://crowd.br.com",
     "order": 9
@@ -91,6 +100,7 @@
     "name": "Emprego Certo UOL",
     "description": "Plataforma de vagas de emprego.",
     "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
     "status": "descartado",
     "url": "http://emprego.uol.com.br",
     "order": 10
@@ -101,6 +111,7 @@
     "category": "candidatura",
     "description": "Está entre os principais portais de empregos e carreiras do Brasil.",
     "motivation": "Muitas oportunidades listadas, porém poucos detalhes dos processos seletivos.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "http://empregos.com.br",
     "order": 11
@@ -110,6 +121,7 @@
     "name": "Empregos Trovit",
     "description": "Plataforma de vagas de emprego.",
     "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
     "status": "descartado",
     "url": "https://empregos.trovit.com.br",
     "order": 12
@@ -119,6 +131,7 @@
     "name": "Escola Contrata",
     "description": "Portal focado no encontro entre os profissionais de educação e as instituições de ensino.",
     "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
     "status": "descartado",
     "url": "http://escolacontrata.com.br",
     "order": 13
@@ -129,6 +142,7 @@
     "category": "social",
     "description": "Grupos do Facebook com oportunidades de trabalho e networking.",
     "motivation": "Plataforma de amplo alcance, com grupos diversos focados em oportunidades profissionais.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "http://www.facebook.com/groups",
     "order": 14
@@ -139,6 +153,7 @@
     "category": "eventual",
     "description": "Plataforma de freelancers para fins profissionais diversos.",
     "motivation": "Plataforma em análise",
+    "classification": "positive",
     "status": "casual",
     "url": "http://freelancer.com.br",
     "order": 15
@@ -149,6 +164,7 @@
     "category": "freelance",
     "description": "Plataforma global de realização de trabalhos freelancers em diversas áreas.",
     "motivation": "Concorrencia ampla com profissionais de todo o mundo, dificultando a competitividade.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "http://br.freelancer.com",
     "order": 16
@@ -158,6 +174,7 @@
     "name": "Freelancer Select",
     "description": "Plataforma de freelancer.",
     "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
     "status": "descartado",
     "url": "http://freelancerselect.com.br",
     "order": 17
@@ -168,6 +185,7 @@
     "category": "candidatura",
     "description": "Portal para recrutamento de profissionais de tecnologia.",
     "motivation": "Maior número de oportunidades para níveis de senioridade mais avançados.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "http://geekhunter.com.br",
     "order": 18
@@ -176,7 +194,8 @@
     "id": "getninjas",
     "name": "GetNinjas",
     "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado.",
-    "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
+    "motivation": "Necessidade de gastar para ter acesso aos projetos.",
+    "classification": "negative",
     "status": "descartado",
     "url": "http://getninjas.com.br",
     "order": 19
@@ -187,6 +206,7 @@
     "category": "social",
     "description": "Rede social de desenvolvedores, com oportunidades de trabalho e networking.",
     "motivation": "Oportunidade divulgadas em repositórios pontuais na plataforma.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "http://github.com",
     "order": 20
@@ -197,6 +217,7 @@
     "category": "candidatura",
     "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado.",
     "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "https://www.glassdoor.com.br",
     "order": 21
@@ -206,6 +227,7 @@
     "name": "Google Careers",
     "description": "Plataforma de oportunidades de emprego da Google.",
     "motivation": "Oportunidades restritas as vagas exclusivas da Google.",
+    "classification": "neutral",
     "status": "descartado",
     "url": "https://careers.google.com/",
     "order": 22
@@ -216,16 +238,18 @@
     "category": "social",
     "description": "Rede social profissional para networking e oportunidades de trabalho.",
     "motivation": "Principal rede social profissional, com muitas oportunidades e conexões.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
     "order": 23
   },
   {
     "id": "mudes",
-    "name": "Fundação Mudes",
+    "name": "Mudes",
     "category": "eventual",
     "description": "Uma organização sem fins lucrativos de capacitação e inclusão profissional.",
     "motivation": "Poucas opotunidades para contratação CLT.",
+    "classification": "neutral",
     "status": "casual",
     "url": "http://mudes.org.br",
     "order": 24
@@ -235,6 +259,7 @@
     "name": "Procurando Emprego",
     "description": "Plataforma de busca de emprego.",
     "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
     "status": "descartado",
     "url": "http://www.procurandoemprego.net",
     "order": 25
@@ -245,6 +270,7 @@
     "category": "candidatura",
     "description": "Plataforma de oportunidades de emprego para profissionais de tecnologia.",
     "motivation": "Foco em vagas para profissionais de tecnologia.",
+    "classification": "positive",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
     "order": 26

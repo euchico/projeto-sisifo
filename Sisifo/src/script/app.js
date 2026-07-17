@@ -16,6 +16,13 @@ const statusLabels = {
   "descartado": "Descartado",
 };
 
+// Rotulos apresentados no badge de classificacao
+const classificationLabels = {
+  positive: "Positivo",
+  neutral: "Neutro",
+  negative: "Negativo",
+};
+
 // Referencias dos elementos principais do DOM
 const selectedGroupsContainer = document.querySelector("#selected-groups");
 const ratingsGrid = document.querySelector("#ratings-grid");
@@ -70,6 +77,7 @@ function normalizeSources(sources) {
     motivation: item.motivation || "",
     status: item.status || "aguardando",
     url: item.url || "#",
+    classification: normalizeClassification(item.classification),
     order: Number.isFinite(item.order) ? item.order : 999,
   }));
 }
@@ -94,6 +102,19 @@ function normalizeSelectedGroups(groups) {
 function normalizeCategory(value) {
   const normalized = String(value || "").trim();
   return normalized === "<REMOVER>" ? "" : normalized;
+}
+
+// Normaliza classificacao para os tipos aceitos no JSON
+function normalizeClassification(value) {
+  const normalized = String(value || "").trim().toLowerCase();
+  const legacyValues = {
+    positivo: "positive",
+    neutro: "neutral",
+    negativo: "negative",
+  };
+  const classification = legacyValues[normalized] || normalized;
+
+  return classificationLabels[classification] ? classification : "negative";
 }
 
 // Liga interacoes de filtro e busca
@@ -185,19 +206,19 @@ function getSelectedSourcesByGroup(categoryKey) {
     .sort((a, b) => a.order - b.order || a.name.localeCompare(b.name, "pt-BR"));
 }
 
-// Renderiza os blocos de classificacao positiva e negativa
+// Renderiza os blocos de classificacao positiva, neutra e negativa
 function renderRatings() {
   const groupedRatings = {
-    positivo: state.sources.filter((item) => getSourceClassification(item) === "positivo"),
-    neutro: state.sources.filter((item) => getSourceClassification(item) === "neutro"),
-    negativo: state.sources.filter((item) => getSourceClassification(item) === "negativo"),
+    positive: state.sources.filter((item) => getSourceClassification(item) === "positive"),
+    neutral: state.sources.filter((item) => getSourceClassification(item) === "neutral"),
+    negative: state.sources.filter((item) => getSourceClassification(item) === "negative"),
   };
 
   ratingsGrid.innerHTML = Object.entries(groupedRatings)
     .map(([classification, items]) => {
-      const title = classification === "positivo" ? "Positivo" : "Negativo";
+      const title = classificationLabels[classification];
       const rows = items
-        .sort((a, b) => a.name.localeCompare(b.name, "pt-BR"))
+        .sort((a, b) => sortRatingItems(a, b, classification))
         .map(
           (item) => `
             <tr>
@@ -233,6 +254,15 @@ function renderRatings() {
       `;
     })
     .join("");
+}
+
+// Mantem neutros em ordem manual e demais classificacoes em ordem alfabetica
+function sortRatingItems(a, b, classification) {
+  if (classification === "neutral") {
+    return a.order - b.order || a.name.localeCompare(b.name, "pt-BR");
+  }
+
+  return a.name.localeCompare(b.name, "pt-BR");
 }
 
 // Renderiza a lista completa de fontes com filtros ativos
@@ -291,10 +321,10 @@ function createStatusBadge(status) {
   return `<span class="status-badge" data-status="${escapeHtml(status)}">${escapeHtml(label)}</span>`;
 }
 
-// Gera badge de classificacao positivo/negativo
+// Gera badge de classificacao positivo/neutro/negativo
 function createClassificationBadge(source) {
   const classification = getSourceClassification(source);
-  const label = classification === "positivo" ? "Positivo" : "Negativo";
+  const label = classificationLabels[classification];
   return `<span class="classification-badge" data-classification="${classification}">${label}</span>`;
 }
 
@@ -303,9 +333,9 @@ function isSourceSelected(source) {
   return source.category !== "";
 }
 
-// Classificacao e derivada da presenca de categoria
+// Classificacao e definida explicitamente no JSON
 function getSourceClassification(source) {
-  return isSourceSelected(source) ? "positivo" : "negativo";
+  return source.classification;
 }
 
 // Gera link externo para a fonte
