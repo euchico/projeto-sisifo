@@ -189,6 +189,7 @@ function getSelectedSourcesByGroup(categoryKey) {
 function renderRatings() {
   const groupedRatings = {
     positivo: state.sources.filter((item) => getSourceClassification(item) === "positivo"),
+    neutro: state.sources.filter((item) => getSourceClassification(item) === "neutro"),
     negativo: state.sources.filter((item) => getSourceClassification(item) === "negativo"),
   };
 
