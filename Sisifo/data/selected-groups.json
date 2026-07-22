@@ -28,6 +28,12 @@
     "description": "Demais sites para acesso eventual e com menor prioridade.",
     "categoryKey": "eventual",
     "order": 5
+  },
+  {
+    "title": "Empresa",
+    "description": "Oportunidades diretas através de acesso à empresa.",
+    "categoryKey": "empresas",
+    "order": 6
   }
 
 ]

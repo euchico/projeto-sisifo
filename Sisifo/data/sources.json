@@ -233,6 +233,38 @@
     "order": 22
   },
   {
+    "id": "hireapp",
+    "name": "HireApp",
+    "description": "Plataforma de oportunidades de emprego.",
+    "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
+    "status": "descartado",
+    "url": "https://www.hireapp.com.br",
+    "order": 23
+  },
+  {
+    "id": "home-agent",
+    "name": "Home Agent",
+    "category": "empresas",
+    "description": "Empresa que busca conectar empresas a profissionais de telemarketing (home office).",
+    "motivation": "Aguardado análise.",
+    "classification": "neutral",
+    "status": "aguardando",
+    "url": "http://homeagent.com.br",
+    "order": 24
+  },
+  {
+    "id": "indeed",
+    "name": "Indeed",
+    "category": "candidatura",
+    "description": "Plataforma de recrutamento que conecta candidatos a oportunidades.",
+    "motivation": "Grande volume de oportunidade em diversas áreas.",
+    "classification": "positive",
+    "status": "em-uso",
+    "url": "http://br.indeed.com",
+    "order": 25
+  },
+  {
     "id": "linkedin",
     "name": "LinkedIn Jobs",
     "category": "social",
@@ -241,7 +273,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 23
+    "order": 26
   },
   {
     "id": "mudes",
@@ -252,7 +284,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "http://mudes.org.br",
-    "order": 24
+    "order": 27
   },
   {
     "id": "procurandoemprego",
@@ -262,7 +294,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://www.procurandoemprego.net",
-    "order": 25
+    "order": 28
   },
   {
     "id": "programathor",
@@ -273,6 +305,6 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
-    "order": 26
+    "order": 29
   }
 ]
