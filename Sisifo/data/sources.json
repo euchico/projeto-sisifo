@@ -265,6 +265,28 @@
     "order": 25
   },
   {
+    "id": "infojobs",
+    "name": "InfoJobs",
+    "category": "candidatura",
+    "description": "Plataforma de vagas de emprego.",
+    "motivation": "Plataforma com grande quantidade de vagas em diversas áreas.",
+    "classification": "positive",
+    "status": "em-uso",
+    "url": "http://infojobs.com.br",
+    "order": 26
+  },
+  {
+    "id": "jooble",
+    "name": "Jooble",
+    "category": "eventual",
+    "description": "Agregador de vagas de emprego de diversos sites.",
+    "motivation": "Plataforma com grande quantidade de vagas em diversas áreas.",
+    "classification": "neutral",
+    "status": "casual",
+    "url": "http://br.jooble.org",
+    "order": 27
+  },
+  {
     "id": "linkedin",
     "name": "LinkedIn Jobs",
     "category": "social",
@@ -273,7 +295,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 26
+    "order": 28
   },
   {
     "id": "mudes",
@@ -284,7 +306,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "http://mudes.org.br",
-    "order": 27
+    "order": 29
   },
   {
     "id": "procurandoemprego",
@@ -294,7 +316,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://www.procurandoemprego.net",
-    "order": 28
+    "order": 30
   },
   {
     "id": "programathor",
@@ -305,6 +327,6 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
-    "order": 29
+    "order": 31
   }
 ]

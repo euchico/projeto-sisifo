@@ -3,7 +3,7 @@
 ## Lista de Oportunidades
 
 *Um painel pessoal para registrar sites, plataformas e redes utilizados na rotina de busca por oportunidades profissionais.*
- 
+
 
 ---
 
@@ -33,7 +33,8 @@
 3. GeekHunter (https://www.geekhunter.com.br)
 4. Glassdoor (https://www.glassdoor.com.br)
 5. Indeed (http://br.indeed.com)
-6. ProgramaThor (https://programathor.com.br)
+6. InfoJobs (http://infojobs.com.br)
+7. ProgramaThor (https://programathor.com.br)
 
 
 #### Freelance
@@ -48,7 +49,8 @@
 3. Cia de Talentos (https://www.ciadetalentos.com.br)
 4. Crowd (http://crowd.br.com)
 5. Freelancer (http://freelancer.com.br)
-6. Mudes (http://mudes.org.br)
+6. Jooble (http://br.jooble.org)
+7. Mudes (http://mudes.org.br)
 
 
 #### Empresas
@@ -72,8 +74,9 @@
 08. GitHub (https://github.com)
 09. Glassdoor (https://www.glassdoor.com.br)
 10. Indeed (http://br.indeed.com)
-11. LinkedIn Jobs (http://br.linkedin.com/jobs)
-12. ProgramaThor (https://programathor.com.br)
+11. InfoJobs (http://infojobs.com.br)
+12. LinkedIn Jobs (http://br.linkedin.com/jobs)
+13. ProgramaThor (https://programathor.com.br)
 
 
 #### Neutra
@@ -85,7 +88,8 @@
 5. Crowd (http://crowd.br.com)
 6. Google Careers (http://careers.google.com)
 7. Home Agent (http://homeagent.com.br)
-8. Mudes (http://mudes.org.br)
+8. Jooble (http://br.jooble.org)
+9. Mudes (http://mudes.org.br)
 
 
 #### Negativa
@@ -132,14 +136,12 @@
 23. HireApp (http://hire-app.com.br)
 24. Home Agent (http://homeagent.com.br)
 25. Indeed (http://br.indeed.com)
-
-1. InfoJobs (http://infojobs.com.br)
-1. Jooble (http://br.jooble.org)
-
-26. LinkedIn Jobs (http://br.linkedin.com/jobs)
-27. Mudes (http://mudes.org.br)
-28. Procurando Emprego (http://www.procurandoemprego.net)
-29. ProgramaThor (https://programathor.com.br)
+26. InfoJobs (http://infojobs.com.br)
+27. Jooble (http://br.jooble.org)
+28. LinkedIn Jobs (http://br.linkedin.com/jobs)
+29. Mudes (http://mudes.org.br)
+30. Procurando Emprego (http://www.procurandoemprego.net)
+31. ProgramaThor (https://programathor.com.br)
 
 1. Reachr (http://reachr.com.br)
 1. RecrutaSimples (http://recrutasimples.com.br)
@@ -157,3 +159,42 @@
 1. Vinteconto (http://vinteconto.com.br)
 1. VintePila (http://vintepila.com.br)
 1. Workana (http://workana.com)
+
+
+### Para Organizar
+
+https://www.curriculum.com.br/candidatos
+https://buscarvagas.com.br/
+
+https://www.vagas.com.br/
+https://br.fiverr.com/
+https://portal.ciee.org.br/
+https://empregos.profissionaisti.com.br/
+https://professorvagas.com.br/
+https://www.vagasonline.com.br/mobile
+https://www.oemprego.com.br/
+https://jobc.com.br/
+https://rjempregos.net/
+https://www.upwork.com/
+http://www.rj.gov.br/secretaria/Default.aspx?sec=TRABALHO
+https://hipsters.jobs/
+https://impulso.team/pt/profissionais
+https://nortjobs.com/
+https://radix.inhire.app/vagas
+https://hubblehr.com.br/
+https://www.sylision.com/
+https://www.adzuna.com.br/
+https://www.innolevels.com.br
+https://gaudium.gupy.io/
+https://remotar.com.br/
+https://divulgavagas.com.br/
+Revelo
+solides
+lovemondays
+trampos
+Vibbra
+BossaBox
+TopTal
+Vibbra
+Fiverr
+inhire
