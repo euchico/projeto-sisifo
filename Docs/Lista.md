@@ -35,6 +35,7 @@
 5. Indeed (http://br.indeed.com)
 6. InfoJobs (http://infojobs.com.br)
 7. ProgramaThor (https://programathor.com.br)
+8. RecrutaSimples (http://recrutasimples.com.br)
 
 
 #### Freelance
@@ -49,8 +50,9 @@
 3. Cia de Talentos (https://www.ciadetalentos.com.br)
 4. Crowd (http://crowd.br.com)
 5. Freelancer (http://freelancer.com.br)
-6. Jooble (http://br.jooble.org)
-7. Mudes (http://mudes.org.br)
+6. JOB Connect (https://jobc.com.br)
+7. Jooble (http://br.jooble.org)
+8. Mudes (http://mudes.org.br)
 
 
 #### Empresas
@@ -77,19 +79,21 @@
 11. InfoJobs (http://infojobs.com.br)
 12. LinkedIn Jobs (http://br.linkedin.com/jobs)
 13. ProgramaThor (https://programathor.com.br)
+14. RecrutaSimples (http://recrutasimples.com.br)
 
 
 #### Neutra
 
-1. 99Freelas (http://99freelas.com.br)
-2. 99jobs (http://99jobs.com)
-3. Bettha (https://www.bettha.com)
-4. Cia de Talentos (https://www.ciadetalentos.com.br)
-5. Crowd (http://crowd.br.com)
-6. Google Careers (http://careers.google.com)
-7. Home Agent (http://homeagent.com.br)
-8. Jooble (http://br.jooble.org)
-9. Mudes (http://mudes.org.br)
+01. 99Freelas (http://99freelas.com.br)
+02. 99jobs (http://99jobs.com)
+03. Bettha (https://www.bettha.com)
+04. Cia de Talentos (https://www.ciadetalentos.com.br)
+05. Crowd (http://crowd.br.com)
+06. Google Careers (http://careers.google.com)
+07. Home Agent (http://homeagent.com.br)
+08. JOB Connect (https://jobc.com.br)
+09. Jooble (http://br.jooble.org)
+10. Mudes (http://mudes.org.br)
 
 
 #### Negativa
@@ -102,6 +106,7 @@
 6. Freelancer Select (http://freelancerselect.com.br)
 7. GetNinjas (http://getninjas.com.br)
 8. Procurando Emprego (http://www.procurandoemprego.net)
+9. Reachr (https://vagasti.reachr.com.br)
 
 
 ---
@@ -137,14 +142,15 @@
 24. Home Agent (http://homeagent.com.br)
 25. Indeed (http://br.indeed.com)
 26. InfoJobs (http://infojobs.com.br)
-27. Jooble (http://br.jooble.org)
-28. LinkedIn Jobs (http://br.linkedin.com/jobs)
-29. Mudes (http://mudes.org.br)
-30. Procurando Emprego (http://www.procurandoemprego.net)
-31. ProgramaThor (https://programathor.com.br)
+27. JOB Connect (https://jobc.com.br)
+28. Jooble (http://br.jooble.org)
+29. LinkedIn Jobs (http://br.linkedin.com/jobs)
+30. Mudes (http://mudes.org.br)
+31. Procurando Emprego (http://www.procurandoemprego.net)
+32. ProgramaThor (https://programathor.com.br)
+33. Reachr (https://vagasti.reachr.com.br)
+34. RecrutaSimples (http://recrutasimples.com.br)
 
-1. Reachr (http://reachr.com.br)
-1. RecrutaSimples (http://recrutasimples.com.br)
 1. riovagas (http://riovagas.com.br)
 1. Superprof (http://superprof.com.br)
 1. Talentix (http://talentix.com.br)
@@ -170,10 +176,8 @@ https://www.vagas.com.br/
 https://br.fiverr.com/
 https://portal.ciee.org.br/
 https://empregos.profissionaisti.com.br/
-https://professorvagas.com.br/
 https://www.vagasonline.com.br/mobile
 https://www.oemprego.com.br/
-https://jobc.com.br/
 https://rjempregos.net/
 https://www.upwork.com/
 http://www.rj.gov.br/secretaria/Default.aspx?sec=TRABALHO
@@ -198,3 +202,4 @@ TopTal
 Vibbra
 Fiverr
 inhire
+devscout

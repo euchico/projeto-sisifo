@@ -276,6 +276,17 @@
     "order": 26
   },
   {
+    "id": "jobc",
+    "name": "JOB Connect",
+    "category": "eventual",
+    "description": "Plataforma de oportunidade de trabalho com SAP.",
+    "motivation": "Plataforma com poucas vagas para Júnior/Pleno e de acesso limitado para plano gratuito.",
+    "classification": "neutral",
+    "status": "casual",
+    "url": "https://jobc.com.br",
+    "order": 27
+  },
+  {
     "id": "jooble",
     "name": "Jooble",
     "category": "eventual",
@@ -284,7 +295,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "http://br.jooble.org",
-    "order": 27
+    "order": 28
   },
   {
     "id": "linkedin",
@@ -295,7 +306,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 28
+    "order": 29
   },
   {
     "id": "mudes",
@@ -306,7 +317,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "http://mudes.org.br",
-    "order": 29
+    "order": 30
   },
   {
     "id": "procurandoemprego",
@@ -316,7 +327,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://www.procurandoemprego.net",
-    "order": 30
+    "order": 31
   },
   {
     "id": "programathor",
@@ -327,6 +338,26 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
-    "order": 31
+    "order": 32
+  },
+  {
+    "id": "reachr",
+    "name": "Reachr",
+    "description": "Plataforma de oportunidades associada ao SEBRAE.",
+    "motivation": "Plataforma com falha de funcionamento.",
+    "classification": "negative",
+    "status": "descartado",
+    "url": "https://vagasti.reachr.com.br",
+    "order": 33
+  },
+  {
+    "id": "recrutasimples",
+    "name": "RecrutaSimples",
+    "description": "Plataforma de candidatura simplificadas para oportunidades de emprego.",
+    "motivation": "Processo simples e rápido de candidatura.",
+    "classification": "positive",
+    "status": "em-uso",
+    "url": "http://recrutasimples.com.br",
+    "order": 34
   }
 ]
