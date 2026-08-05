@@ -38,6 +38,10 @@
 8. RecrutaSimples (http://recrutasimples.com.br)
 
 
+#### Classificados
+1. riovagas (http://riovagas.com.br)
+
+
 #### Freelance
 
 1. Freelancer (http://br.freelancer.com)
@@ -48,11 +52,12 @@
 1. 99Freelas (http://99freelas.com.br)
 2. 99jobs (http://99jobs.com)
 3. Cia de Talentos (https://www.ciadetalentos.com.br)
-4. Crowd (http://crowd.br.com)
-5. Freelancer (http://freelancer.com.br)
-6. JOB Connect (https://jobc.com.br)
-7. Jooble (http://br.jooble.org)
-8. Mudes (http://mudes.org.br)
+4. CIEE (https://portal.ciee.org.br)
+5. Crowd (http://crowd.br.com)
+6. Freelancer (http://freelancer.com.br)
+7. JOB Connect (https://jobc.com.br)
+8. Jooble (http://br.jooble.org)
+9. Mudes (http://mudes.org.br)
 
 
 #### Empresas
@@ -80,6 +85,7 @@
 12. LinkedIn Jobs (http://br.linkedin.com/jobs)
 13. ProgramaThor (https://programathor.com.br)
 14. RecrutaSimples (http://recrutasimples.com.br)
+15. riovagas (http://riovagas.com.br)
 
 
 #### Neutra
@@ -88,12 +94,13 @@
 02. 99jobs (http://99jobs.com)
 03. Bettha (https://www.bettha.com)
 04. Cia de Talentos (https://www.ciadetalentos.com.br)
-05. Crowd (http://crowd.br.com)
-06. Google Careers (http://careers.google.com)
-07. Home Agent (http://homeagent.com.br)
-08. JOB Connect (https://jobc.com.br)
-09. Jooble (http://br.jooble.org)
-10. Mudes (http://mudes.org.br)
+05. CIEE (https://portal.ciee.org.br)
+06. Crowd (http://crowd.br.com)
+07. Google Careers (http://careers.google.com)
+08. Home Agent (http://homeagent.com.br)
+09. JOB Connect (https://jobc.com.br)
+10. Jooble (http://br.jooble.org)
+11. Mudes (http://mudes.org.br)
 
 
 #### Negativa
@@ -119,39 +126,40 @@
 04. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
 05. Catho (https://catho.com.br)
 06. Cia de Talentos (https://www.ciadetalentos.com.br)
-07. Comunica Freelancer (https://comunicafreelancer.com.br)
-08. Contratanet (http://contratanet.com.br)
-09. CROWD (http://crowd.br.com)
-10. Emprego Certo UOL (http://empregocerto.uol.com.br)
-11. Empregos.com.br (http://empregos.com.br)
-12. Empregos Trovit (https://empregos.trovit.com.br)
-13. Escola Contrata (http://escolacontrata.com.br)
-14. Facebook Groups (https://facebook.com/groups)
+07. CIEE (https://portal.ciee.org.br)
+08. Comunica Freelancer (https://comunicafreelancer.com.br)
+09. Contratanet (http://contratanet.com.br)
+10. CROWD (http://crowd.br.com)
+11. Emprego Certo UOL (http://empregocerto.uol.com.br)
+12. Empregos.com.br (http://empregos.com.br)
+13. Empregos Trovit (https://empregos.trovit.com.br)
+14. Escola Contrata (http://escolacontrata.com.br)
+15. Facebook Groups (https://facebook.com/groups)
       - Vagas TI (https://fb.com/groups/vagastecinf)
       - Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
       - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
-15. Freelancer (http://freelancer.com.br)
-16. Freelancer (http://br.freelancer.com)
-17. Freelancer Select (http://freelancerselect.com.br)
-18. GeekHunter (https://www.geekhunter.com.br)
-19. GetNinjas (http://getninjas.com.br)
-20. GitHub (https://github.com)
-21. Glassdoor (https://www.glassdoor.com.br)
-22. Google Careers (http://careers.google.com)
-23. HireApp (http://hire-app.com.br)
-24. Home Agent (http://homeagent.com.br)
-25. Indeed (http://br.indeed.com)
-26. InfoJobs (http://infojobs.com.br)
-27. JOB Connect (https://jobc.com.br)
-28. Jooble (http://br.jooble.org)
-29. LinkedIn Jobs (http://br.linkedin.com/jobs)
-30. Mudes (http://mudes.org.br)
-31. Procurando Emprego (http://www.procurandoemprego.net)
-32. ProgramaThor (https://programathor.com.br)
-33. Reachr (https://vagasti.reachr.com.br)
-34. RecrutaSimples (http://recrutasimples.com.br)
+16. Freelancer (http://freelancer.com.br)
+17. Freelancer (http://br.freelancer.com)
+18. Freelancer Select (http://freelancerselect.com.br)
+19. GeekHunter (https://www.geekhunter.com.br)
+20. GetNinjas (http://getninjas.com.br)
+21. GitHub (https://github.com)
+22. Glassdoor (https://www.glassdoor.com.br)
+23. Google Careers (http://careers.google.com)
+24. HireApp (http://hire-app.com.br)
+25. Home Agent (http://homeagent.com.br)
+26. Indeed (http://br.indeed.com)
+27. InfoJobs (http://infojobs.com.br)
+28. JOB Connect (https://jobc.com.br)
+29. Jooble (http://br.jooble.org)
+30. LinkedIn Jobs (http://br.linkedin.com/jobs)
+31. Mudes (http://mudes.org.br)
+32. Procurando Emprego (http://www.procurandoemprego.net)
+33. ProgramaThor (https://programathor.com.br)
+34. Reachr (https://vagasti.reachr.com.br)
+35. RecrutaSimples (http://recrutasimples.com.br)
+36. riovagas (http://riovagas.com.br)
 
-1. riovagas (http://riovagas.com.br)
 1. Superprof (http://superprof.com.br)
 1. Talentix (http://talentix.com.br)
 1. techvagas (http://techvagas.cc)
@@ -174,7 +182,6 @@ https://buscarvagas.com.br/
 
 https://www.vagas.com.br/
 https://br.fiverr.com/
-https://portal.ciee.org.br/
 https://empregos.profissionaisti.com.br/
 https://www.vagasonline.com.br/mobile
 https://www.oemprego.com.br/
@@ -194,12 +201,9 @@ https://remotar.com.br/
 https://divulgavagas.com.br/
 Revelo
 solides
-lovemondays
 trampos
 Vibbra
 BossaBox
-TopTal
 Vibbra
-Fiverr
 inhire
 devscout

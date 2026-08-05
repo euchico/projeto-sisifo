@@ -65,6 +65,16 @@
     "order": 6
   },
   {
+    "id": "ciee",
+    "name": "CIEE",
+    "description": "Plataforma de conexão entre estudantes e empresas.",
+    "motivation": "Plataforma com foco no público jovem, com oportunidades de estágio e jovem aprendiz.",
+    "classification": "neutral",
+    "status": "casual",
+    "url": "https://portal.ciee.org.br/quero-uma-vaga",
+    "order": 7
+  },
+  {
     "id": "comunica-freela",
     "name": "Comunica Freelancer",
     "description": "Plataforma de freelancer.",
@@ -72,7 +82,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "https://comunicafreelancer.com.br",
-    "order": 7
+    "order": 8
   },
   {
     "id": "contratanet",
@@ -82,7 +92,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://contratanet.com.br",
-    "order": 8
+    "order": 9
   },
   {
     "id": "crowd",
@@ -93,7 +103,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "http://crowd.br.com",
-    "order": 9
+    "order": 10
   },
   {
     "id": "emprego-uol",
@@ -103,7 +113,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://emprego.uol.com.br",
-    "order": 10
+    "order": 11
   },
   {
     "id": "empregos",
@@ -114,7 +124,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://empregos.com.br",
-    "order": 11
+    "order": 12
   },
   {
     "id": "empregos-trovit",
@@ -124,7 +134,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "https://empregos.trovit.com.br",
-    "order": 12
+    "order": 13
   },
   {
     "id": "escola-contrata",
@@ -134,7 +144,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://escolacontrata.com.br",
-    "order": 13
+    "order": 14
   },
   {
     "id": "facebook-groups",
@@ -145,7 +155,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://www.facebook.com/groups",
-    "order": 14
+    "order": 15
   },
   {
     "id": "freelancercombr",
@@ -156,7 +166,7 @@
     "classification": "positive",
     "status": "casual",
     "url": "http://freelancer.com.br",
-    "order": 15
+    "order": 16
   },
   {
     "id": "brfreelancer",
@@ -167,7 +177,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://br.freelancer.com",
-    "order": 16
+    "order": 17
   },
   {
     "id": "freelancerselect",
@@ -177,7 +187,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://freelancerselect.com.br",
-    "order": 17
+    "order": 18
   },
   {
     "id": "geekhunter",
@@ -188,7 +198,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://geekhunter.com.br",
-    "order": 18
+    "order": 19
   },
   {
     "id": "getninjas",
@@ -198,7 +208,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://getninjas.com.br",
-    "order": 19
+    "order": 20
   },
   {
     "id": "github",
@@ -209,7 +219,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://github.com",
-    "order": 20
+    "order": 21
   },
   {
     "id": "glassdoor",
@@ -220,7 +230,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "https://www.glassdoor.com.br",
-    "order": 21
+    "order": 22
   },
   {
     "id": "google-careers",
@@ -230,7 +240,7 @@
     "classification": "neutral",
     "status": "descartado",
     "url": "https://careers.google.com/",
-    "order": 22
+    "order": 23
   },
   {
     "id": "hireapp",
@@ -240,7 +250,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "https://www.hireapp.com.br",
-    "order": 23
+    "order": 24
   },
   {
     "id": "home-agent",
@@ -251,7 +261,7 @@
     "classification": "neutral",
     "status": "aguardando",
     "url": "http://homeagent.com.br",
-    "order": 24
+    "order": 25
   },
   {
     "id": "indeed",
@@ -262,7 +272,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://br.indeed.com",
-    "order": 25
+    "order": 26
   },
   {
     "id": "infojobs",
@@ -273,7 +283,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://infojobs.com.br",
-    "order": 26
+    "order": 27
   },
   {
     "id": "jobc",
@@ -284,7 +294,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "https://jobc.com.br",
-    "order": 27
+    "order": 28
   },
   {
     "id": "jooble",
@@ -295,7 +305,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "http://br.jooble.org",
-    "order": 28
+    "order": 29
   },
   {
     "id": "linkedin",
@@ -306,7 +316,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://br.linkedin.com/jobs",
-    "order": 29
+    "order": 30
   },
   {
     "id": "mudes",
@@ -317,7 +327,7 @@
     "classification": "neutral",
     "status": "casual",
     "url": "http://mudes.org.br",
-    "order": 30
+    "order": 31
   },
   {
     "id": "procurandoemprego",
@@ -327,7 +337,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://www.procurandoemprego.net",
-    "order": 31
+    "order": 32
   },
   {
     "id": "programathor",
@@ -338,7 +348,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "https://www.programathor.com.br",
-    "order": 32
+    "order": 33
   },
   {
     "id": "reachr",
@@ -348,7 +358,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "https://vagasti.reachr.com.br",
-    "order": 33
+    "order": 34
   },
   {
     "id": "recrutasimples",
@@ -358,6 +368,6 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://recrutasimples.com.br",
-    "order": 34
+    "order": 35
   }
 ]

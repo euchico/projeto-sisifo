@@ -18,6 +18,12 @@
     "order": 3
   },
   {
+    "title": "Classificados",
+    "description": "Páginas com a estrutura simples de classificados, com oportunidades de trabalho.",
+    "categoryKey": "classificados",
+    "order": 3
+  },
+  {
     "title": "Freelance",
     "description": "Plataformas e fontes de oportunidades de trabalho freelance.",
     "categoryKey": "freelance",
