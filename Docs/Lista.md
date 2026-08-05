@@ -45,6 +45,7 @@
 #### Freelance
 
 1. Freelancer (http://br.freelancer.com)
+2. Superprof (http://superprof.com.br)
 
 
 #### Acesso Eventual
@@ -86,6 +87,7 @@
 13. ProgramaThor (https://programathor.com.br)
 14. RecrutaSimples (http://recrutasimples.com.br)
 15. riovagas (http://riovagas.com.br)
+16. Superprof (http://superprof.com.br)
 
 
 #### Neutra
@@ -159,8 +161,8 @@
 34. Reachr (https://vagasti.reachr.com.br)
 35. RecrutaSimples (http://recrutasimples.com.br)
 36. riovagas (http://riovagas.com.br)
+37. Superprof (http://superprof.com.br)
 
-1. Superprof (http://superprof.com.br)
 1. Talentix (http://talentix.com.br)
 1. techvagas (http://techvagas.cc)
 1. Telegram (http://web.telegram.org)
@@ -183,7 +185,6 @@ https://buscarvagas.com.br/
 https://www.vagas.com.br/
 https://br.fiverr.com/
 https://empregos.profissionaisti.com.br/
-https://www.vagasonline.com.br/mobile
 https://www.oemprego.com.br/
 https://rjempregos.net/
 https://www.upwork.com/
