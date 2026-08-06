@@ -379,5 +379,15 @@
     "status": "em-uso",
     "url": "http://superprof.com.br",
     "order": 35
+  },
+  {
+    "id": "talentix",
+    "name": "Talentix",
+    "description": "Plataforma de busca de emprego.",
+    "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
+    "status": "descartado",
+    "url": "http://talentix.com.br",
+    "order": 36
   }
 ]

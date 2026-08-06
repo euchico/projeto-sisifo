@@ -107,15 +107,16 @@
 
 #### Negativa
 
-1. Comunica Freelancer (https://comunicafreelancer.com.br)
-2. Contratanet (http://contratanet.com.br)
-3. Emprego Certo UOL (http://empregocerto.uol.com.br)
-4. Empregos Trovit (https://empregos.trovit.com.br)
-5. Escola Contrata (http://escolacontrata.com.br)
-6. Freelancer Select (http://freelancerselect.com.br)
-7. GetNinjas (http://getninjas.com.br)
-8. Procurando Emprego (http://www.procurandoemprego.net)
-9. Reachr (https://vagasti.reachr.com.br)
+01. Comunica Freelancer (https://comunicafreelancer.com.br)
+02. Contratanet (http://contratanet.com.br)
+03. Emprego Certo UOL (http://empregocerto.uol.com.br)
+04. Empregos Trovit (https://empregos.trovit.com.br)
+05. Escola Contrata (http://escolacontrata.com.br)
+06. Freelancer Select (http://freelancerselect.com.br)
+07. GetNinjas (http://getninjas.com.br)
+08. Procurando Emprego (http://www.procurandoemprego.net)
+09. Reachr (https://vagasti.reachr.com.br)
+10. Talentix (http://talentix.com.br)
 
 
 ---
@@ -162,8 +163,8 @@
 35. RecrutaSimples (http://recrutasimples.com.br)
 36. riovagas (http://riovagas.com.br)
 37. Superprof (http://superprof.com.br)
+38. Talentix (http://talentix.com.br)
 
-1. Talentix (http://talentix.com.br)
 1. techvagas (http://techvagas.cc)
 1. Telegram (http://web.telegram.org)
       - Vagas Pra Jr. (https://t.me/vagasprajr)
