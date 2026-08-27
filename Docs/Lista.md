@@ -12,7 +12,7 @@
 #### Notícias
 
 1. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
-
+2. RJ Empregos (https://rjempregos.net)
 
 #### Social
 
@@ -51,14 +51,13 @@
 #### Acesso Eventual
 
 1. 99Freelas (http://99freelas.com.br)
-2. 99jobs (http://99jobs.com)
-3. Cia de Talentos (https://www.ciadetalentos.com.br)
-4. CIEE (https://portal.ciee.org.br)
-5. Crowd (http://crowd.br.com)
-6. Freelancer (http://freelancer.com.br)
-7. JOB Connect (https://jobc.com.br)
-8. Jooble (http://br.jooble.org)
-9. Mudes (http://mudes.org.br)
+2. Cia de Talentos (https://www.ciadetalentos.com.br)
+3. CIEE (https://portal.ciee.org.br)
+4. Crowd (http://crowd.br.com)
+5. Freelancer (http://freelancer.com.br)
+6. JOB Connect (https://jobc.com.br)
+7. Jooble (http://br.jooble.org)
+8. Mudes (http://mudes.org.br)
 
 
 #### Empresas
@@ -86,8 +85,9 @@
 12. LinkedIn Jobs (http://br.linkedin.com/jobs)
 13. ProgramaThor (https://programathor.com.br)
 14. RecrutaSimples (http://recrutasimples.com.br)
-15. riovagas (http://riovagas.com.br)
-16. Superprof (http://superprof.com.br)
+15. RioVagas (http://riovagas.com.br)
+16. RJ Empregos (https://rjempregos.net)
+17. Superprof (http://superprof.com.br)
 
 
 #### Neutra
@@ -97,7 +97,7 @@
 03. Bettha (https://www.bettha.com)
 04. Cia de Talentos (https://www.ciadetalentos.com.br)
 05. CIEE (https://portal.ciee.org.br)
-06. Crowd (http://crowd.br.com)
+06. CROWD (http://crowd.br.com)
 07. Google Careers (http://careers.google.com)
 08. Home Agent (http://homeagent.com.br)
 09. JOB Connect (https://jobc.com.br)
@@ -114,9 +114,11 @@
 05. Escola Contrata (http://escolacontrata.com.br)
 06. Freelancer Select (http://freelancerselect.com.br)
 07. GetNinjas (http://getninjas.com.br)
-08. Procurando Emprego (http://www.procurandoemprego.net)
-09. Reachr (https://vagasti.reachr.com.br)
-10. Talentix (http://talentix.com.br)
+08. HireApp (http://hire-app.com.br)
+09. Procurando Emprego (http://www.procurandoemprego.net)
+10. Reachr (https://vagasti.reachr.com.br)
+11. Talentix (http://talentix.com.br)
+12. techvagas (http://techvagas.cc)
 
 
 ---
@@ -133,6 +135,9 @@
 08. Comunica Freelancer (https://comunicafreelancer.com.br)
 09. Contratanet (http://contratanet.com.br)
 10. CROWD (http://crowd.br.com)
+
+--- Organização
+
 11. Emprego Certo UOL (http://empregocerto.uol.com.br)
 12. Empregos.com.br (http://empregos.com.br)
 13. Empregos Trovit (https://empregos.trovit.com.br)
@@ -161,11 +166,14 @@
 33. ProgramaThor (https://programathor.com.br)
 34. Reachr (https://vagasti.reachr.com.br)
 35. RecrutaSimples (http://recrutasimples.com.br)
-36. riovagas (http://riovagas.com.br)
-37. Superprof (http://superprof.com.br)
-38. Talentix (http://talentix.com.br)
+36. RioVagas (http://riovagas.com.br)
+37. RJ Empregos (https://rjempregos.net)
+38. Superprof (http://superprof.com.br)
+39. Talentix (http://talentix.com.br)
+40. techvagas (http://techvagas.cc)
 
-1. techvagas (http://techvagas.cc)
+--- Organização
+
 1. Telegram (http://web.telegram.org)
       - Vagas Pra Jr. (https://t.me/vagasprajr)
       - Cafeína Vagas (https://t.me/CafeinaVagas)
@@ -187,7 +195,6 @@ https://www.vagas.com.br/
 https://br.fiverr.com/
 https://empregos.profissionaisti.com.br/
 https://www.oemprego.com.br/
-https://rjempregos.net/
 https://www.upwork.com/
 http://www.rj.gov.br/secretaria/Default.aspx?sec=TRABALHO
 https://hipsters.jobs/
@@ -201,6 +208,7 @@ https://www.innolevels.com.br
 https://gaudium.gupy.io/
 https://remotar.com.br/
 https://divulgavagas.com.br/
+https://kolab.ee/
 Revelo
 solides
 trampos
@@ -209,3 +217,4 @@ BossaBox
 Vibbra
 inhire
 devscout
+Capitani

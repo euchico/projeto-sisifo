@@ -13,19 +13,18 @@
   {
     "id": "99jobs",
     "name": "99jobs",
-    "category": "eventual",
     "description": "Plataforma de vagas de emprego a partir da listagem de empresas registradas.",
     "motivation": "Conteúdo defasado e com poucas oportunidades listadas.",
     "classification": "neutral",
-    "status": "casual",
+    "status": "descartado",
     "url": "http://99jobs.com",
     "order": 2
   },
   {
     "id": "bettha",
     "name": "Bettha",
-    "description": "Plataforma de estágio e trainee, conectandojovens talentos às melhores oportunidades.",
-    "motivation": "Foco na em estágio e trainee. * Terminar preenchimento.",
+    "description": "Plataforma de estágio e trainee, conectando jovens talentos às melhores oportunidades.",
+    "motivation": "Foco em estágio e trainee. * Terminar preenchimento.",
     "classification": "neutral",
     "status": "descartado",
     "url": "https://www.bettha.com",
@@ -35,8 +34,8 @@
     "id": "blog-edimilson",
     "name": "Blog Edimilson Ávila",
     "category": "noticias",
-    "description": "Blog do jornalista Edimilson Ávila, com notícias de vaga de emprego e curso no Rio de Janeiro.",
-    "motivation": "Informações 'regionais' atualizadas semanalmente.",
+    "description": "Blog do jornalista Edimilson Ávila, com notícias de vaga de emprego no Rio de Janeiro.",
+    "motivation": "Informações regionais atualizadas semanalmente.",
     "classification": "positive",
     "status": "em-uso",
     "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/",
@@ -61,7 +60,7 @@
     "motivation": "Vagas selecionadas das empresas parceiras.",
     "classification": "neutral",
     "status": "casual",
-    "url": "https://comunicafreelancer.com.br",
+    "url": "https://www.ciadetalentos.com.br",
     "order": 6
   },
   {
@@ -371,6 +370,28 @@
     "order": 35
   },
   {
+    "id": "riovagas",
+    "name": "Riovagas",
+    "category": "classificados",
+    "description": "???",
+    "motivation": "???",
+    "classification": "positive",
+    "status": "em-uso",
+    "url": "http://riovagas.com.br",
+    "order": 36
+  },
+  {
+    "id": "rjempregos",
+    "name": "RJ Empregos",
+    "category": "noticias",
+    "description": "???",
+    "motivation": "???",
+    "classification": "positive",
+    "status": "em-uso",
+    "url": "https://rjempregos.net",
+    "order": 37
+  },
+  {
     "id": "superprof",
     "name": "Superprof",
     "description": "Plataforma de realização de freelance por professores.",
@@ -378,7 +399,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://superprof.com.br",
-    "order": 35
+    "order": 38
   },
   {
     "id": "talentix",
@@ -388,6 +409,16 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://talentix.com.br",
-    "order": 36
+    "order": 39
+  },
+  {
+    "id": "techvagas",
+    "name": "techvagas",
+    "description": "Plataforma de busca de emprego.",
+    "motivation": "Plataforma descontinuada.",
+    "classification": "negative",
+    "status": "descartado",
+    "url": "http://techvagas.cc",
+    "order": 40
   }
 ]
