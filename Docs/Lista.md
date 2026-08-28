@@ -166,11 +166,12 @@
 33. ProgramaThor (https://programathor.com.br)
 34. Reachr (https://vagasti.reachr.com.br)
 35. RecrutaSimples (http://recrutasimples.com.br)
-36. RioVagas (http://riovagas.com.br)
-37. RJ Empregos (https://rjempregos.net)
-38. Superprof (http://superprof.com.br)
-39. Talentix (http://talentix.com.br)
-40. techvagas (http://techvagas.cc)
+36. Revelo (https://www.revelo.com.br)
+37. RioVagas (http://riovagas.com.br)
+38. RJ Empregos (https://rjempregos.net)
+39. Superprof (http://superprof.com.br)
+40. Talentix (http://talentix.com.br)
+41. techvagas (http://techvagas.cc)
 
 --- Organização
 
@@ -189,27 +190,27 @@
 ### Para Organizar
 
 https://www.curriculum.com.br/candidatos
-https://buscarvagas.com.br/
+https://buscarvagas.com.br
 
-https://www.vagas.com.br/
-https://br.fiverr.com/
-https://empregos.profissionaisti.com.br/
-https://www.oemprego.com.br/
-https://www.upwork.com/
+https://www.vagas.com.br
+https://br.fiverr.com
+https://empregos.profissionaisti.com.br
+https://www.oemprego.com.br
+https://www.upwork.com
 http://www.rj.gov.br/secretaria/Default.aspx?sec=TRABALHO
-https://hipsters.jobs/
+https://hipsters.jobs
 https://impulso.team/pt/profissionais
-https://nortjobs.com/
+https://nortjobs.com
 https://radix.inhire.app/vagas
-https://hubblehr.com.br/
-https://www.sylision.com/
-https://www.adzuna.com.br/
+https://hubblehr.com.br
+https://www.sylision.com
+https://www.adzuna.com.br
 https://www.innolevels.com.br
-https://gaudium.gupy.io/
-https://remotar.com.br/
-https://divulgavagas.com.br/
-https://kolab.ee/
-Revelo
+https://gaudium.gupy.io
+https://remotar.com.br
+https://divulgavagas.com.br
+https://kolab.ee
+https://www.novotrampo.com.br
 solides
 trampos
 Vibbra

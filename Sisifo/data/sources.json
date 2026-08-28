@@ -7,14 +7,14 @@
     "motivation": "Versão gratuita muito limitada, porém válido para captar ideias.",
     "classification": "neutral",
     "status": "casual",
-    "url": "https://www.99freelas.com.br/",
+    "url": "https://www.99freelas.com.br",
     "order": 1
   },
   {
     "id": "99jobs",
     "name": "99jobs",
     "description": "Plataforma de vagas de emprego a partir da listagem de empresas registradas.",
-    "motivation": "Conteúdo defasado e com poucas oportunidades listadas.",
+    "motivation": "Conteúdo defasado e com poucas oportunidades listadas, porém válido para listar empresas.",
     "classification": "neutral",
     "status": "descartado",
     "url": "http://99jobs.com",
@@ -57,7 +57,7 @@
     "name": "Cia de Talentos",
     "category": "eventual",
     "description": "Plataforma de oportunidades de vagas de estágio e trainee",
-    "motivation": "Vagas selecionadas das empresas parceiras.",
+    "motivation": "Vagas selecionadas das empresas parceiras. * Terminar preenchimento.",
     "classification": "neutral",
     "status": "casual",
     "url": "https://www.ciadetalentos.com.br",
@@ -370,6 +370,16 @@
     "order": 35
   },
   {
+    "id": "revelo",
+    "name": "Revelo",
+    "description": "Plataforma de oportunidades profissionais para desenvolvedores da América Latina.",
+    "motivation": "Plataforma focada em oportunidades para empresas estrangeiras.",
+    "classification": "neutral",
+    "status": "descartado",
+    "url": "https://www.revelo.com.br",
+    "order": 36
+  },
+  {
     "id": "riovagas",
     "name": "Riovagas",
     "category": "classificados",
@@ -378,7 +388,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://riovagas.com.br",
-    "order": 36
+    "order": 37
   },
   {
     "id": "rjempregos",
@@ -389,7 +399,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "https://rjempregos.net",
-    "order": 37
+    "order": 38
   },
   {
     "id": "superprof",
@@ -399,7 +409,7 @@
     "classification": "positive",
     "status": "em-uso",
     "url": "http://superprof.com.br",
-    "order": 38
+    "order": 39
   },
   {
     "id": "talentix",
@@ -409,7 +419,7 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://talentix.com.br",
-    "order": 39
+    "order": 40
   },
   {
     "id": "techvagas",
@@ -419,6 +429,6 @@
     "classification": "negative",
     "status": "descartado",
     "url": "http://techvagas.cc",
-    "order": 40
+    "order": 41
   }
 ]
