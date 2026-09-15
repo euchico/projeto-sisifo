@@ -2,14 +2,15 @@
   {
     "id": "99freelas",
     "name": "99Freelas",
-    "category": "eventual",
     "description": "Plataforma de freelancers para público brasileiro em geral.",
     "motivation": "Versão gratuita muito limitada, porém válido para captar ideias.",
     "classification": "neutral",
-    "status": "casual",
+    "status": "descartado",
     "url": "https://www.99freelas.com.br",
     "order": 1
   },
+  
+  
   {
     "id": "99jobs",
     "name": "99jobs",
@@ -40,6 +41,17 @@
     "status": "em-uso",
     "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/",
     "order": 4
+  },
+  {
+    "id": "buscar-vagas",
+    "name": "Buscar Vagas",
+    "category": "classificados",
+    "description": "Site de classificados de vagas de emprego.",
+    "motivation": "Site simples e com boa usabilidade.",
+    "classification": "positive",
+    "status": "em-uso",
+    "url": "https://buscarvagas.com.br",
+    "order": 5
   },
   {
     "id": "catho",

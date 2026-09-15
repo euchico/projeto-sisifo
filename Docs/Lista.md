@@ -39,7 +39,9 @@
 
 
 #### Classificados
-1. riovagas (http://riovagas.com.br)
+
+1. Buscar Vagas (https://buscarvagas.com.br)
+2. riovagas (http://riovagas.com.br)
 
 
 #### Freelance
@@ -50,14 +52,13 @@
 
 #### Acesso Eventual
 
-1. 99Freelas (http://99freelas.com.br)
-2. Cia de Talentos (https://www.ciadetalentos.com.br)
-3. CIEE (https://portal.ciee.org.br)
-4. Crowd (http://crowd.br.com)
-5. Freelancer (http://freelancer.com.br)
-6. JOB Connect (https://jobc.com.br)
-7. Jooble (http://br.jooble.org)
-8. Mudes (http://mudes.org.br)
+1. Cia de Talentos (https://www.ciadetalentos.com.br)
+2. CIEE (https://portal.ciee.org.br)
+3. Crowd (http://crowd.br.com)
+4. Freelancer (http://freelancer.com.br)
+5. JOB Connect (https://jobc.com.br)
+6. Jooble (http://br.jooble.org)
+7. Mudes (http://mudes.org.br)
 
 
 #### Empresas
@@ -72,22 +73,23 @@
 #### Positiva
 
 01. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
-02. Catho (https://catho.com.br)
-03. Empregos.com.br (http://empregos.com.br)
-04. Facebook Groups (https://facebook.com/groups)
-05. Freelancer (http://freelancer.com.br)
-06. Freelancer (http://br.freelancer.com)
-07. GeekHunter (https://www.geekhunter.com.br)
-08. GitHub (https://github.com)
-09. Glassdoor (https://www.glassdoor.com.br)
-10. Indeed (http://br.indeed.com)
-11. InfoJobs (http://infojobs.com.br)
-12. LinkedIn Jobs (http://br.linkedin.com/jobs)
-13. ProgramaThor (https://programathor.com.br)
-14. RecrutaSimples (http://recrutasimples.com.br)
-15. RioVagas (http://riovagas.com.br)
-16. RJ Empregos (https://rjempregos.net)
-17. Superprof (http://superprof.com.br)
+02. Buscar Vagas (https://buscarvagas.com.br)
+03. Catho (https://catho.com.br)
+04. Empregos.com.br (http://empregos.com.br)
+05. Facebook Groups (https://facebook.com/groups)
+06. Freelancer (http://freelancer.com.br)
+07. Freelancer (http://br.freelancer.com)
+08. GeekHunter (https://www.geekhunter.com.br)
+09. GitHub (https://github.com)
+10. Glassdoor (https://www.glassdoor.com.br)
+11. Indeed (http://br.indeed.com)
+12. InfoJobs (http://infojobs.com.br)
+13. LinkedIn Jobs (http://br.linkedin.com/jobs)
+14. ProgramaThor (https://programathor.com.br)
+15. RecrutaSimples (http://recrutasimples.com.br)
+16. RioVagas (http://riovagas.com.br)
+17. RJ Empregos (https://rjempregos.net)
+18. Superprof (http://superprof.com.br)
 
 
 #### Neutra
@@ -126,15 +128,17 @@
 ### Lista Completa
 
 01. 99Freelas (http://99freelas.com.br)
+
 02. 99jobs (http://99jobs.com)
 03. Bettha (https://www.bettha.com)
-04. Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
-05. Catho (https://catho.com.br)
-06. Cia de Talentos (https://www.ciadetalentos.com.br)
-07. CIEE (https://portal.ciee.org.br)
-08. Comunica Freelancer (https://comunicafreelancer.com.br)
-09. Contratanet (http://contratanet.com.br)
-10. CROWD (http://crowd.br.com)
+04. [OK] Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
+05. Buscar Vagas (https://buscarvagas.com.br)
+06. Catho (https://catho.com.br)
+07. Cia de Talentos (https://www.ciadetalentos.com.br)
+08. CIEE (https://portal.ciee.org.br)
+09. Comunica Freelancer (https://comunicafreelancer.com.br)
+10. Contratanet (http://contratanet.com.br)
+11. CROWD (http://crowd.br.com)
 
 --- Revisão
 
@@ -154,7 +158,7 @@
 21. GitHub (https://github.com)
 22. Glassdoor (https://www.glassdoor.com.br)
 23. Google Careers (http://careers.google.com)
-24. HireApp (http://hire-app.com.br)
+24. [OK] HireApp (http://hire-app.com.br)
 25. Home Agent (http://homeagent.com.br)
 26. Indeed (http://br.indeed.com)
 27. InfoJobs (http://infojobs.com.br)
@@ -162,15 +166,15 @@
 29. Jooble (http://br.jooble.org)
 30. LinkedIn Jobs (http://br.linkedin.com/jobs)
 31. Mudes (http://mudes.org.br)
-32. Procurando Emprego (http://www.procurandoemprego.net)
+32. [OK] Procurando Emprego (http://www.procurandoemprego.net)
 33. ProgramaThor (https://programathor.com.br)
 34. Reachr (https://vagasti.reachr.com.br)
 35. RecrutaSimples (http://recrutasimples.com.br)
 36. Revelo (https://www.revelo.com.br)
 37. RioVagas (http://riovagas.com.br)
-38. RJ Empregos (https://rjempregos.net)
+38. [OK] RJ Empregos (https://rjempregos.net)
 39. Superprof (http://superprof.com.br)
-40. Talentix (http://talentix.com.br)
+40. [OK] Talentix (http://talentix.com.br)
 41. techvagas (http://techvagas.cc)
 
 --- Organização
@@ -190,7 +194,6 @@
 ### Para Organizar
 
 https://www.curriculum.com.br/candidatos
-https://buscarvagas.com.br
 
 https://www.vagas.com.br
 https://br.fiverr.com
@@ -211,11 +214,15 @@ https://remotar.com.br
 https://divulgavagas.com.br
 https://kolab.ee
 https://www.novotrampo.com.br
+https://centraldocandidato.totvs.app/main/home
+https://radix.inhire.app/vagas
 solides
 trampos
 Vibbra
+TopTal
 BossaBox
 Vibbra
 inhire
 devscout
 Capitani
+lovemondays
