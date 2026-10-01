@@ -22,31 +22,40 @@
 
 ### Ordem: Alfabética
 
-[01] [COMPLETO] [POSITIVO] [NOTÍCIA] [RJ]
+[ 01 ] [ EM ANÁLISE ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
+Bettha (https://www.bettha.com)
+
+[ 02 ] [ COMPLETO ] [ POSITIVO ] [ NOTÍCIA ] [ RJ ]
 Blog do Edimilson Ávila (https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila)
 
-[02] [COMPLETO] [POSITIVO] [CLASSIFICADOS] [RJ]
+[ 03 ] [ COMPLETO ] [ POSITIVO ] [ CLASSIFICADOS ] [ RJ ]
 Buscar Vagas (https://buscarvagas.com.br)
 
-[03] [COMPLETO] [POSITIVO] [CANDIDATURA] [BRASIL]
+[ 04 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
 Catho (https://catho.com.br)
 
-[04] [COMPLETO] [NEGATIVO] [] []
+[ 05 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Contratanet (http://contratanet.com.br)
 
-[05] [COMPLETO] [NEGATIVO] [] []
+[ 06 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
+Empregos.com.br (http://empregos.com.br)
+
+[ 07 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Escola Contrata (http://escolacontrata.com.br)
 
-[06] [COMPLETO] [NEGATIVO] [] []
+[ 08 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Freelancer Select (http://freelancerselect.com.br)
+
+[ 09 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 HireApp (http://hire-app.com.br)
 
-[07] [COMPLETO] [POSITIVO] [CANDIDATURA] [BRASIL]
+[ 10 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
 Indeed (http://br.indeed.com)
 
-[08] [COMPLETO] [NEGATIVO] [] []
+[ 11 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Procurando Emprego (http://www.procurandoemprego.net)
 
-[09] [COMPLETO] [NEGATIVO] [] []
+[ 12 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Talentix (http://talentix.com.br)
 
 
@@ -116,7 +125,6 @@ Talentix (http://talentix.com.br)
 
 #### Candidatura
 
-2. Empregos.com.br (http://empregos.com.br)
 3. GeekHunter (https://www.geekhunter.com.br)
 4. Glassdoor (https://www.glassdoor.com.br)
 6. InfoJobs (http://infojobs.com.br)
@@ -126,7 +134,6 @@ Talentix (http://talentix.com.br)
 
 #### Classificados
 
-1. Buscar Vagas (https://buscarvagas.com.br)
 2. riovagas (http://riovagas.com.br)
 
 
@@ -158,8 +165,6 @@ Talentix (http://talentix.com.br)
 
 #### Positiva
 
-02. Buscar Vagas (https://buscarvagas.com.br)
-04. Empregos.com.br (http://empregos.com.br)
 05. Facebook Groups (https://facebook.com/groups)
 06. Freelancer (http://freelancer.com.br)
 07. Freelancer (http://br.freelancer.com)
@@ -179,7 +184,6 @@ Talentix (http://talentix.com.br)
 
 01. 99Freelas (http://99freelas.com.br)
 02. 99jobs (http://99jobs.com)
-03. Bettha (https://www.bettha.com)
 04. Cia de Talentos (https://www.ciadetalentos.com.br)
 05. CIEE (https://portal.ciee.org.br)
 06. CROWD (http://crowd.br.com)
@@ -193,12 +197,9 @@ Talentix (http://talentix.com.br)
 #### Negativa
 
 01. Comunica Freelancer (https://comunicafreelancer.com.br)
-02. Contratanet (http://contratanet.com.br)
 03. Emprego Certo UOL (http://empregocerto.uol.com.br)
 04. Empregos Trovit (https://empregos.trovit.com.br)
-06. Freelancer Select (http://freelancerselect.com.br)
 07. GetNinjas (http://getninjas.com.br)
-08. HireApp (http://hire-app.com.br)
 10. Reachr (https://vagasti.reachr.com.br)
 12. techvagas (http://techvagas.cc)
 
@@ -209,13 +210,11 @@ Talentix (http://talentix.com.br)
 
 01. 99Freelas (http://99freelas.com.br)
 02. 99jobs (http://99jobs.com)
-03. [FINALIZAR] Bettha (https://www.bettha.com)
 07. [FINALIZAR] Cia de Talentos (https://www.ciadetalentos.com.br)
 08. CIEE (https://portal.ciee.org.br)
 09. [OK] Comunica Freelancer (https://comunicafreelancer.com.br)
 11. [FINALIZAR] CROWD (http://crowd.br.com)
 11. Emprego Certo UOL (http://empregocerto.uol.com.br)
-12. Empregos.com.br (http://empregos.com.br)
 13. Empregos Trovit (https://empregos.trovit.com.br)
 15. Facebook Groups (https://facebook.com/groups)
       - Vagas TI (https://fb.com/groups/vagastecinf)
@@ -223,7 +222,6 @@ Talentix (http://talentix.com.br)
       - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
 16. Freelancer (http://freelancer.com.br)
 17. Freelancer (http://br.freelancer.com)
-18. Freelancer Select (http://freelancerselect.com.br)
 19. GeekHunter (https://www.geekhunter.com.br)
 20. GetNinjas (http://getninjas.com.br)
 21. GitHub (https://github.com)
@@ -257,6 +255,7 @@ Talentix (http://talentix.com.br)
 
 ### Para Organizar
 
+https://divulgavagas.com.br
 https://www.curriculum.com.br/candidatos
 https://www.vagas.com.br
 https://br.fiverr.com
@@ -274,7 +273,6 @@ https://www.adzuna.com.br
 https://www.innolevels.com.br
 https://gaudium.gupy.io
 https://remotar.com.br
-https://divulgavagas.com.br
 https://kolab.ee
 https://www.novotrampo.com.br
 https://centraldocandidato.totvs.app/main/home
@@ -283,6 +281,7 @@ https://pref.rio/servicos/trabalho
 https://www.smartr.me/
 https://professorvagas.com.br/
 https://pref.rio/servicos/trabalho
+https://www.vagasonline.com.br/mobile
 solides
 trampos
 Vibbra
