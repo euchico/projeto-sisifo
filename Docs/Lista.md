@@ -37,25 +37,31 @@ Catho (https://catho.com.br)
 [ 05 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Contratanet (http://contratanet.com.br)
 
-[ 06 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
+[ 06 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Emprego Certo UOL (http://empregocerto.uol.com.br)
+
+[ 07 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
 Empregos.com.br (http://empregos.com.br)
 
-[ 07 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 08 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Escola Contrata (http://escolacontrata.com.br)
 
-[ 08 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 09 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Freelancer Select (http://freelancerselect.com.br)
 
-[ 09 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 10 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 HireApp (http://hire-app.com.br)
 
-[ 10 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
+[ 11 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
 Indeed (http://br.indeed.com)
 
-[ 11 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 12 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Procurando Emprego (http://www.procurandoemprego.net)
 
-[ 12 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 13 ] [ COMPLETO ] [ NEUTRO ] [ CLASSIFICADOS ] [ BRASIL ]
+Recruta Simples (http://recrutasimples.com.br)
+
+[ 14 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Talentix (http://talentix.com.br)
 
 
@@ -129,7 +135,6 @@ Talentix (http://talentix.com.br)
 4. Glassdoor (https://www.glassdoor.com.br)
 6. InfoJobs (http://infojobs.com.br)
 7. ProgramaThor (https://programathor.com.br)
-8. RecrutaSimples (http://recrutasimples.com.br)
 
 
 #### Classificados
@@ -174,7 +179,6 @@ Talentix (http://talentix.com.br)
 12. InfoJobs (http://infojobs.com.br)
 13. LinkedIn Jobs (http://br.linkedin.com/jobs)
 14. ProgramaThor (https://programathor.com.br)
-15. RecrutaSimples (http://recrutasimples.com.br)
 16. RioVagas (http://riovagas.com.br)
 17. RJ Empregos (https://rjempregos.net)
 18. Superprof (http://superprof.com.br)
@@ -197,7 +201,6 @@ Talentix (http://talentix.com.br)
 #### Negativa
 
 01. Comunica Freelancer (https://comunicafreelancer.com.br)
-03. Emprego Certo UOL (http://empregocerto.uol.com.br)
 04. Empregos Trovit (https://empregos.trovit.com.br)
 07. GetNinjas (http://getninjas.com.br)
 10. Reachr (https://vagasti.reachr.com.br)
@@ -214,7 +217,7 @@ Talentix (http://talentix.com.br)
 08. CIEE (https://portal.ciee.org.br)
 09. [OK] Comunica Freelancer (https://comunicafreelancer.com.br)
 11. [FINALIZAR] CROWD (http://crowd.br.com)
-11. Emprego Certo UOL (http://empregocerto.uol.com.br)
+
 13. Empregos Trovit (https://empregos.trovit.com.br)
 15. Facebook Groups (https://facebook.com/groups)
       - Vagas TI (https://fb.com/groups/vagastecinf)
@@ -235,7 +238,6 @@ Talentix (http://talentix.com.br)
 31. Mudes (http://mudes.org.br)
 33. [FINALIZAR] ProgramaThor (https://programathor.com.br)
 34. Reachr (https://vagasti.reachr.com.br)
-35. RecrutaSimples (http://recrutasimples.com.br)
 36. Revelo (https://www.revelo.com.br)
 37. RioVagas (http://riovagas.com.br)
 38. [OK] RJ Empregos (https://rjempregos.net)
@@ -282,6 +284,7 @@ https://www.smartr.me/
 https://professorvagas.com.br/
 https://pref.rio/servicos/trabalho
 https://www.vagasonline.com.br/mobile
+https://atracaodetalentos.totvs.app/vempratotvs/extended
 solides
 trampos
 Vibbra
