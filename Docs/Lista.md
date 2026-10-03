@@ -13,10 +13,10 @@
 [ STATUS | Aguardando / Em Análise / Completo ]
 [ AVALIAÇÃO | Positivo / Neutro / Negativo ]
 [ CATEGORIA | Notícias / Social / Candidatura / Classificados / Freelance / Acesso Eventual / Empresas ]
-[ REGIÃO | Brasil / RJ ]
+[ REGIÃO | Mundo / Brasil / RJ ]
+
 
 ---
-
 
 ## Listagem Completa
 
@@ -35,38 +35,43 @@ Buscar Vagas (https://buscarvagas.com.br)
 Catho (https://catho.com.br)
 
 [ 05 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
-Contratanet (http://contratanet.com.br)
+Comunica Freelancer (https://comunicafreelancer.com.br)
 
 [ 06 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Contratanet (http://contratanet.com.br)
+
+[ 07 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Emprego Certo UOL (http://empregocerto.uol.com.br)
 
-[ 07 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
+[ 08 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
 Empregos.com.br (http://empregos.com.br)
 
-[ 08 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 09 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Escola Contrata (http://escolacontrata.com.br)
 
-[ 09 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 10 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Freelancer Select (http://freelancerselect.com.br)
 
-[ 10 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 11 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 HireApp (http://hire-app.com.br)
 
-[ 11 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
+[ 12 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
 Indeed (http://br.indeed.com)
 
-[ 12 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 13 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Procurando Emprego (http://www.procurandoemprego.net)
 
-[ 13 ] [ COMPLETO ] [ NEUTRO ] [ CLASSIFICADOS ] [ BRASIL ]
+[ 14 ] [ COMPLETO ] [ NEUTRO ] [ CLASSIFICADOS ] [ BRASIL ]
 Recruta Simples (http://recrutasimples.com.br)
 
-[ 14 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 14 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ MUNDO ]
+Revelo (https://www.revelo.com.br)
+
+[ 15 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Talentix (http://talentix.com.br)
 
 
 ---
-
 
 ### Ordem: Status
 
@@ -74,8 +79,8 @@ Talentix (http://talentix.com.br)
 #### Em Análise
 #### Completo
 
----
 
+---
 
 ### Ordem: Avaliação
 
@@ -85,7 +90,6 @@ Talentix (http://talentix.com.br)
 
 
 ---
-
 
 ### Ordem: Categoria
 
@@ -98,8 +102,8 @@ Talentix (http://talentix.com.br)
 #### Empresas
 #### NULL
 
----
 
+---
 
 ### Ordem: Região
 
@@ -107,8 +111,8 @@ Talentix (http://talentix.com.br)
 #### RJ
 #### NULL
 
----
 
+---
 
 ### Selecionados
 
@@ -200,7 +204,6 @@ Talentix (http://talentix.com.br)
 
 #### Negativa
 
-01. Comunica Freelancer (https://comunicafreelancer.com.br)
 04. Empregos Trovit (https://empregos.trovit.com.br)
 07. GetNinjas (http://getninjas.com.br)
 10. Reachr (https://vagasti.reachr.com.br)
@@ -215,9 +218,7 @@ Talentix (http://talentix.com.br)
 02. 99jobs (http://99jobs.com)
 07. [FINALIZAR] Cia de Talentos (https://www.ciadetalentos.com.br)
 08. CIEE (https://portal.ciee.org.br)
-09. [OK] Comunica Freelancer (https://comunicafreelancer.com.br)
 11. [FINALIZAR] CROWD (http://crowd.br.com)
-
 13. Empregos Trovit (https://empregos.trovit.com.br)
 15. Facebook Groups (https://facebook.com/groups)
       - Vagas TI (https://fb.com/groups/vagastecinf)
@@ -238,7 +239,6 @@ Talentix (http://talentix.com.br)
 31. Mudes (http://mudes.org.br)
 33. [FINALIZAR] ProgramaThor (https://programathor.com.br)
 34. Reachr (https://vagasti.reachr.com.br)
-36. Revelo (https://www.revelo.com.br)
 37. RioVagas (http://riovagas.com.br)
 38. [OK] RJ Empregos (https://rjempregos.net)
 39. Superprof (http://superprof.com.br)
