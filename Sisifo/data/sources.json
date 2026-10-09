@@ -8,9 +8,7 @@
     "status": "descartado",
     "url": "https://www.99freelas.com.br",
     "order": 1
-  },
-  
-  
+  }, 
   {
     "id": "99jobs",
     "name": "99jobs",
@@ -20,49 +18,6 @@
     "status": "descartado",
     "url": "http://99jobs.com",
     "order": 2
-  },
-  {
-    "id": "bettha",
-    "name": "Bettha",
-    "description": "Plataforma de estágio e trainee, conectando jovens talentos às melhores oportunidades.",
-    "motivation": "Foco em estágio e trainee. * Terminar preenchimento.",
-    "classification": "neutral",
-    "status": "descartado",
-    "url": "https://www.bettha.com",
-    "order": 3
-  },
-  {
-    "id": "blog-edimilson",
-    "name": "Blog Edimilson Ávila",
-    "category": "noticias",
-    "description": "Blog do jornalista Edimilson Ávila, com notícias de vaga de emprego no Rio de Janeiro.",
-    "motivation": "Informações regionais atualizadas semanalmente.",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/",
-    "order": 4
-  },
-  {
-    "id": "buscar-vagas",
-    "name": "Buscar Vagas",
-    "category": "classificados",
-    "description": "Site de classificados de vagas de emprego.",
-    "motivation": "Site simples e com boa usabilidade.",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "https://buscarvagas.com.br",
-    "order": 5
-  },
-  {
-    "id": "catho",
-    "name": "Catho",
-    "category": "candidatura",
-    "description": "Uma das principais plataforma de vagas de emprego no Brasil.",
-    "motivation": "Uma das maiores plataformas de vagas do Brasil.",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "https://www.catho.com.br/",
-    "order": 5
   },
   {
     "id": "cia-talentos",
@@ -84,26 +39,6 @@
     "status": "casual",
     "url": "https://portal.ciee.org.br/quero-uma-vaga",
     "order": 7
-  },
-  {
-    "id": "comunica-freela",
-    "name": "Comunica Freelancer",
-    "description": "Plataforma de freelancer.",
-    "motivation": "Plataforma descontinuada.",
-    "classification": "negative",
-    "status": "descartado",
-    "url": "https://comunicafreelancer.com.br",
-    "order": 8
-  },
-  {
-    "id": "contratanet",
-    "name": "Contratanet",
-    "description": "Plataforma de vagas de emprego.",
-    "motivation": "Plataforma descontinuada.",
-    "classification": "negative",
-    "status": "descartado",
-    "url": "http://contratanet.com.br",
-    "order": 9
   },
   {
     "id": "crowd",
@@ -148,27 +83,6 @@
     "order": 13
   },
   {
-    "id": "escola-contrata",
-    "name": "Escola Contrata",
-    "description": "Portal focado no encontro entre os profissionais de educação e as instituições de ensino.",
-    "motivation": "Plataforma descontinuada.",
-    "classification": "negative",
-    "status": "descartado",
-    "url": "http://escolacontrata.com.br",
-    "order": 14
-  },
-  {
-    "id": "facebook-groups",
-    "name": "Facebook Groups",
-    "category": "social",
-    "description": "Grupos do Facebook com oportunidades de trabalho e networking.",
-    "motivation": "Plataforma de amplo alcance, com grupos diversos focados em oportunidades profissionais.",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "http://www.facebook.com/groups",
-    "order": 15
-  },
-  {
     "id": "freelancercombr",
     "name": "Freelancer",
     "category": "eventual",
@@ -201,27 +115,6 @@
     "order": 18
   },
   {
-    "id": "geekhunter",
-    "name": "GeekHunter",
-    "category": "candidatura",
-    "description": "Portal para recrutamento de profissionais de tecnologia.",
-    "motivation": "Maior número de oportunidades para níveis de senioridade mais avançados.",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "http://geekhunter.com.br",
-    "order": 19
-  },
-  {
-    "id": "getninjas",
-    "name": "GetNinjas",
-    "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado.",
-    "motivation": "Necessidade de gastar para ter acesso aos projetos.",
-    "classification": "negative",
-    "status": "descartado",
-    "url": "http://getninjas.com.br",
-    "order": 20
-  },
-  {
     "id": "github",
     "name": "GitHub",
     "category": "social",
@@ -231,17 +124,6 @@
     "status": "em-uso",
     "url": "http://github.com",
     "order": 21
-  },
-  {
-    "id": "glassdoor",
-    "name": "Glassdoor",
-    "category": "candidatura",
-    "description": "Plataforma global de recrutamento que conecta candidatos a oportunidades e informações de mercado.",
-    "motivation": "Plataforma com informações internas sobre as empresas e vagas.",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "https://www.glassdoor.com.br",
-    "order": 22
   },
   {
     "id": "google-careers",
@@ -273,17 +155,6 @@
     "status": "aguardando",
     "url": "http://homeagent.com.br",
     "order": 25
-  },
-  {
-    "id": "indeed",
-    "name": "Indeed",
-    "category": "candidatura",
-    "description": "Plataforma de recrutamento que conecta candidatos a oportunidades.",
-    "motivation": "Grande volume de oportunidade em diversas áreas.",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "http://br.indeed.com",
-    "order": 26
   },
   {
     "id": "infojobs",
@@ -403,17 +274,6 @@
     "order": 37
   },
   {
-    "id": "rjempregos",
-    "name": "RJ Empregos",
-    "category": "noticias",
-    "description": "???",
-    "motivation": "???",
-    "classification": "positive",
-    "status": "em-uso",
-    "url": "https://rjempregos.net",
-    "order": 38
-  },
-  {
     "id": "superprof",
     "name": "Superprof",
     "description": "Plataforma de realização de freelance por professores.",
@@ -422,25 +282,5 @@
     "status": "em-uso",
     "url": "http://superprof.com.br",
     "order": 39
-  },
-  {
-    "id": "talentix",
-    "name": "Talentix",
-    "description": "Plataforma de busca de emprego.",
-    "motivation": "Plataforma descontinuada.",
-    "classification": "negative",
-    "status": "descartado",
-    "url": "http://talentix.com.br",
-    "order": 40
-  },
-  {
-    "id": "techvagas",
-    "name": "techvagas",
-    "description": "Plataforma de busca de emprego.",
-    "motivation": "Plataforma descontinuada.",
-    "classification": "negative",
-    "status": "descartado",
-    "url": "http://techvagas.cc",
-    "order": 41
   }
 ]

@@ -43,32 +43,73 @@ Contratanet (http://contratanet.com.br)
 [ 07 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Emprego Certo UOL (http://empregocerto.uol.com.br)
 
-[ 08 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
+[ 08 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Empregos Trovit (https://empregos.trovit.com.br)
+
+[ 09 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
 Empregos.com.br (http://empregos.com.br)
 
-[ 09 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 10 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Escola Contrata (http://escolacontrata.com.br)
 
-[ 10 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 11 ] [ COMPLETO ] [ NEUTRO ] [ SOCIAL ] [ BRASIL ]
+Facebook Groups (https://facebook.com/groups)
+- Vagas TI (https://fb.com/groups/vagastecinf)
+- Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
+- Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
+
+[ 12 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Freelancer Select (http://freelancerselect.com.br)
 
-[ 11 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 13 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
+GeekHunter (https://www.geekhunter.com.br)
+
+[ 14 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+GetNinjas (http://getninjas.com.br)
+
+[ 15 ] [ COMPLETO ] [ NEUTRO ] [ SOCIAL ] [ BRASIL ]
+GitHub (https://github.com)
+- https://github.com/frontendbr/vagas/issues
+- https://github.com/backend-br/vagas/issues
+
+[ 16 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
+Glassdoor (https://www.glassdoor.com.br)
+
+[ 17 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Hipsters.Jobs (https://hipsters.jobs)
+
+[ 18 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 HireApp (http://hire-app.com.br)
 
-[ 12 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
+[ 19 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
 Indeed (http://br.indeed.com)
 
-[ 13 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 20 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Procurando Emprego (http://www.procurandoemprego.net)
 
-[ 14 ] [ COMPLETO ] [ NEUTRO ] [ CLASSIFICADOS ] [ BRASIL ]
+[ 21 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Professor Vagas (https://professorvagas.com.br)
+
+[ 22 ] [ COMPLETO ] [ NEUTRO ] [ CLASSIFICADOS ] [ BRASIL ]
 Recruta Simples (http://recrutasimples.com.br)
 
-[ 14 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ MUNDO ]
+[ 23 ] [ COMPLETO ] [ POSITIVO ] [ NOTÍCIA ] [ RJ ]
+RJ Empregos (https://rjempregos.net)
+
+[ 24 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ MUNDO ]
 Revelo (https://www.revelo.com.br)
 
-[ 15 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 25 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Talentix (http://talentix.com.br)
+
+[ 26 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Talent Lab (https://www.alura.com.br/talent-lab)
+
+[ 27 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+techvagas (http://techvagas.cc)
+
+[ 28 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Vagas Home Office (http://vagashomeoffice.com.br)
 
 
 ---
@@ -116,27 +157,13 @@ Talentix (http://talentix.com.br)
 
 ### Selecionados
 
-#### Notícias
-
-2. RJ Empregos (https://rjempregos.net)
-
-
 #### Social
 
-1. Facebook Groups (https://facebook.com/groups)
-   - Vagas TI (https://fb.com/groups/vagastecinf)
-   - Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
-   - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
-2. GitHub (https://github.com)
-   - Front-end Brasil (https://github.com/frontendbr/vagas/issues)
-   - Back-end Brasil (https://github.com/backend-br/vagas/issues)
 3. LinkedIn Jobs (http://br.linkedin.com/jobs)
 
 
 #### Candidatura
 
-3. GeekHunter (https://www.geekhunter.com.br)
-4. Glassdoor (https://www.glassdoor.com.br)
 6. InfoJobs (http://infojobs.com.br)
 7. ProgramaThor (https://programathor.com.br)
 
@@ -174,17 +201,12 @@ Talentix (http://talentix.com.br)
 
 #### Positiva
 
-05. Facebook Groups (https://facebook.com/groups)
 06. Freelancer (http://freelancer.com.br)
 07. Freelancer (http://br.freelancer.com)
-08. GeekHunter (https://www.geekhunter.com.br)
-09. GitHub (https://github.com)
-10. Glassdoor (https://www.glassdoor.com.br)
 12. InfoJobs (http://infojobs.com.br)
 13. LinkedIn Jobs (http://br.linkedin.com/jobs)
 14. ProgramaThor (https://programathor.com.br)
 16. RioVagas (http://riovagas.com.br)
-17. RJ Empregos (https://rjempregos.net)
 18. Superprof (http://superprof.com.br)
 
 
@@ -205,9 +227,7 @@ Talentix (http://talentix.com.br)
 #### Negativa
 
 04. Empregos Trovit (https://empregos.trovit.com.br)
-07. GetNinjas (http://getninjas.com.br)
 10. Reachr (https://vagasti.reachr.com.br)
-12. techvagas (http://techvagas.cc)
 
 
 ---
@@ -220,16 +240,8 @@ Talentix (http://talentix.com.br)
 08. CIEE (https://portal.ciee.org.br)
 11. [FINALIZAR] CROWD (http://crowd.br.com)
 13. Empregos Trovit (https://empregos.trovit.com.br)
-15. Facebook Groups (https://facebook.com/groups)
-      - Vagas TI (https://fb.com/groups/vagastecinf)
-      - Vagas Programadores/Desenvolvedores (https://fb.com/groups/vagasdev)
-      - Vagas para Desenvolvedores, Programadores, Web Design, TI (https://fb.com/groups/vagasdesenvolvimento)
 16. Freelancer (http://freelancer.com.br)
 17. Freelancer (http://br.freelancer.com)
-19. GeekHunter (https://www.geekhunter.com.br)
-20. GetNinjas (http://getninjas.com.br)
-21. GitHub (https://github.com)
-22. Glassdoor (https://www.glassdoor.com.br)
 23. Google Careers (http://careers.google.com)
 25. Home Agent (http://homeagent.com.br)
 27. [FINALIZAR] InfoJobs (http://infojobs.com.br)
@@ -240,22 +252,21 @@ Talentix (http://talentix.com.br)
 33. [FINALIZAR] ProgramaThor (https://programathor.com.br)
 34. Reachr (https://vagasti.reachr.com.br)
 37. RioVagas (http://riovagas.com.br)
-38. [OK] RJ Empregos (https://rjempregos.net)
 39. Superprof (http://superprof.com.br)
-41. [OK] techvagas (http://techvagas.cc)
 1. Telegram (http://web.telegram.org)
       - Vagas Pra Jr. (https://t.me/vagasprajr)
       - Cafeína Vagas (https://t.me/CafeinaVagas)
       - Vagas de TI Para Todos (https://t.me/vagastibr)
 1. Trabalha Brasil (http://trabalhabrasil.com.br)
 1. trampos (http://trampos.co)
-1. Vagas Home Office (http://vagashomeoffice.com.br)
 1. Vinteconto (http://vinteconto.com.br)
 1. VintePila (http://vintepila.com.br)
 1. Workana (http://workana.com)
 
 
 ### Para Organizar
+
+https://hubblehr.com.br
 
 https://divulgavagas.com.br
 https://www.curriculum.com.br/candidatos
@@ -265,15 +276,12 @@ https://empregos.profissionaisti.com.br
 https://www.oemprego.com.br
 https://www.upwork.com
 http://www.rj.gov.br/secretaria/Default.aspx?sec=TRABALHO
-https://hipsters.jobs
 https://impulso.team/pt/profissionais
 https://nortjobs.com
 https://radix.inhire.app/vagas
-https://hubblehr.com.br
 https://www.sylision.com
 https://www.adzuna.com.br
 https://www.innolevels.com.br
-https://gaudium.gupy.io
 https://remotar.com.br
 https://kolab.ee
 https://www.novotrampo.com.br
@@ -281,10 +289,13 @@ https://centraldocandidato.totvs.app/main/home
 https://radix.inhire.app/vagas
 https://pref.rio/servicos/trabalho
 https://www.smartr.me/
-https://professorvagas.com.br/
 https://pref.rio/servicos/trabalho
 https://www.vagasonline.com.br/mobile
 https://atracaodetalentos.totvs.app/vempratotvs/extended
+https://web.tivit.com/
+https://jobs.bridglabs.com/
+https://ntconsult.compleo.com.br/
+https://perkys.me/vagas?locale=pt-br
 solides
 trampos
 Vibbra
@@ -295,3 +306,7 @@ inhire
 devscout
 Capitani
 lovemondays
+
+https://gaudium.gupy.io
+https://www.mirante.net.br/
+https://careers.emeal.nttdata.com/
