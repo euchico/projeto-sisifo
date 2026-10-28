@@ -75,40 +75,55 @@ GitHub (https://github.com)
 [ 16 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
 Glassdoor (https://www.glassdoor.com.br)
 
-[ 17 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
-Hipsters.Jobs (https://hipsters.jobs)
+[ 17 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ MUNDO ]
+Google Careers (http://careers.google.com)
 
 [ 18 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Hipsters.Jobs (https://hipsters.jobs)
+
+[ 19 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 HireApp (http://hire-app.com.br)
 
-[ 19 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
+[ 20 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ BRASIL ]
 Indeed (http://br.indeed.com)
 
-[ 20 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
-Procurando Emprego (http://www.procurandoemprego.net)
+[ 21 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
+Jooble (http://br.jooble.org)
 
-[ 21 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
-Professor Vagas (https://professorvagas.com.br)
+[ 22 ] [ COMPLETO ] [ POSITIVO ] [ CANDIDATURA ] [ MUNDO ]
+LinkedIn Jobs (http://br.linkedin.com/jobs)
 
-[ 22 ] [ COMPLETO ] [ NEUTRO ] [ CLASSIFICADOS ] [ BRASIL ]
-Recruta Simples (http://recrutasimples.com.br)
+[ 23 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ BRASIL ]
+Novo Trampo (https://www.novotrampo.com.br)
 
-[ 23 ] [ COMPLETO ] [ POSITIVO ] [ NOTÍCIA ] [ RJ ]
-RJ Empregos (https://rjempregos.net)
-
-[ 24 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ MUNDO ]
-Revelo (https://www.revelo.com.br)
+[ 24 ] [ COMPLETO ] [ POSITIVO ] [ CLASSIFICADOS ] [ RJ ]
+Oportunidades Cariocas (https://pref.rio/servicos/trabalho)
 
 [ 25 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
-Talentix (http://talentix.com.br)
+Procurando Emprego (http://www.procurandoemprego.net)
 
 [ 26 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Professor Vagas (https://professorvagas.com.br)
+
+[ 27 ] [ COMPLETO ] [ NEUTRO ] [ CLASSIFICADOS ] [ BRASIL ]
+Recruta Simples (http://recrutasimples.com.br)
+
+[ 28 ] [ COMPLETO ] [ POSITIVO ] [ NOTÍCIA ] [ RJ ]
+RJ Empregos (https://rjempregos.net)
+
+[ 29 ] [ COMPLETO ] [ NEUTRO ] [ CANDIDATURA ] [ MUNDO ]
+Revelo (https://www.revelo.com.br)
+
+[ 30 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+Talentix (http://talentix.com.br)
+
+[ 31 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Talent Lab (https://www.alura.com.br/talent-lab)
 
-[ 27 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 32 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 techvagas (http://techvagas.cc)
 
-[ 28 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
+[ 33 ] [ COMPLETO ] [ NEGATIVO ] [  ] [  ]
 Vagas Home Office (http://vagashomeoffice.com.br)
 
 
@@ -186,7 +201,6 @@ Vagas Home Office (http://vagashomeoffice.com.br)
 3. Crowd (http://crowd.br.com)
 4. Freelancer (http://freelancer.com.br)
 5. JOB Connect (https://jobc.com.br)
-6. Jooble (http://br.jooble.org)
 7. Mudes (http://mudes.org.br)
 
 
@@ -217,10 +231,8 @@ Vagas Home Office (http://vagashomeoffice.com.br)
 04. Cia de Talentos (https://www.ciadetalentos.com.br)
 05. CIEE (https://portal.ciee.org.br)
 06. CROWD (http://crowd.br.com)
-07. Google Careers (http://careers.google.com)
 08. Home Agent (http://homeagent.com.br)
 09. JOB Connect (https://jobc.com.br)
-10. Jooble (http://br.jooble.org)
 11. Mudes (http://mudes.org.br)
 
 
@@ -242,11 +254,9 @@ Vagas Home Office (http://vagashomeoffice.com.br)
 13. Empregos Trovit (https://empregos.trovit.com.br)
 16. Freelancer (http://freelancer.com.br)
 17. Freelancer (http://br.freelancer.com)
-23. Google Careers (http://careers.google.com)
 25. Home Agent (http://homeagent.com.br)
 27. [FINALIZAR] InfoJobs (http://infojobs.com.br)
 28. JOB Connect (https://jobc.com.br)
-29. Jooble (http://br.jooble.org)
 30. LinkedIn Jobs (http://br.linkedin.com/jobs)
 31. Mudes (http://mudes.org.br)
 33. [FINALIZAR] ProgramaThor (https://programathor.com.br)
@@ -284,21 +294,23 @@ https://www.adzuna.com.br
 https://www.innolevels.com.br
 https://remotar.com.br
 https://kolab.ee
-https://www.novotrampo.com.br
 https://centraldocandidato.totvs.app/main/home
 https://radix.inhire.app/vagas
-https://pref.rio/servicos/trabalho
 https://www.smartr.me/
-https://pref.rio/servicos/trabalho
 https://www.vagasonline.com.br/mobile
 https://atracaodetalentos.totvs.app/vempratotvs/extended
 https://web.tivit.com/
 https://jobs.bridglabs.com/
 https://ntconsult.compleo.com.br/
 https://perkys.me/vagas?locale=pt-br
+https://applia.app/pt
+https://curricu.lol/login?redirect=%2Fdashboard
+https://curriculootimizado.com.br/login
+https://atracaodetalentos.totvs.app/vempratotvs/extended
+www.jobleads.com
+netvagas.com.br
 solides
 trampos
-Vibbra
 TopTal
 BossaBox
 Vibbra
